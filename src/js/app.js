@@ -1,8 +1,11 @@
 const Header = React.createClass({
-  render: () =>
-    <div className="verb">
-      <h1>{this.props.data}</h1>
-    </div>
+  render: function() {
+    return (
+      <div className="verb">
+        <h1>{this.props.data}</h1>
+      </div>
+    )
+  }
 });
 
 ReactDOM.render(
