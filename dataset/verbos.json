@@ -1,0 +1,8922 @@
+[ 
+  { 
+    "id": 0, 
+    "verbo": "abandonar"
+  },
+  { 
+    "id": 1, 
+    "verbo": "abjurar"
+  },
+  { 
+    "id": 2, 
+    "verbo": "ablandar"
+  },
+  { 
+    "id": 3, 
+    "verbo": "ablandarse"
+  },
+  { 
+    "id": 4, 
+    "verbo": "abochornar"
+  },
+  { 
+    "id": 5, 
+    "verbo": "abofetear"
+  },
+  { 
+    "id": 6, 
+    "verbo": "abolir"
+  },
+  { 
+    "id": 7, 
+    "verbo": "abonarse"
+  },
+  { 
+    "id": 8, 
+    "verbo": "abordar"
+  },
+  { 
+    "id": 9, 
+    "verbo": "abortar"
+  },
+  { 
+    "id": 10, 
+    "verbo": "abovedar"
+  },
+  { 
+    "id": 11, 
+    "verbo": "abrasar"
+  },
+  { 
+    "id": 12, 
+    "verbo": "abrazar"
+  },
+  { 
+    "id": 13, 
+    "verbo": "abreviar"
+  },
+  { 
+    "id": 14, 
+    "verbo": "abrir"
+  },
+  { 
+    "id": 15, 
+    "verbo": "abrochar"
+  },
+  { 
+    "id": 16, 
+    "verbo": "abrumar"
+  },
+  { 
+    "id": 17, 
+    "verbo": "absorber"
+  },
+  { 
+    "id": 18, 
+    "verbo": "abuchear"
+  },
+  { 
+    "id": 19, 
+    "verbo": "abundar"
+  },
+  { 
+    "id": 20, 
+    "verbo": "aburrir"
+  },
+  { 
+    "id": 21, 
+    "verbo": "aburrirse"
+  },
+  { 
+    "id": 22, 
+    "verbo": "abusar"
+  },
+  { 
+    "id": 23, 
+    "verbo": "acabar"
+  },
+  { 
+    "id": 24, 
+    "verbo": "acallar"
+  },
+  { 
+    "id": 25, 
+    "verbo": "acampar"
+  },
+  { 
+    "id": 26, 
+    "verbo": "acaparar"
+  },
+  { 
+    "id": 27, 
+    "verbo": "acariciar"
+  },
+  { 
+    "id": 28, 
+    "verbo": "acceder"
+  },
+  { 
+    "id": 29, 
+    "verbo": "accionar"
+  },
+  { 
+    "id": 30, 
+    "verbo": "acechar"
+  },
+  { 
+    "id": 31, 
+    "verbo": "aceitar"
+  },
+  { 
+    "id": 32, 
+    "verbo": "acelerar"
+  },
+  { 
+    "id": 33, 
+    "verbo": "acentuar"
+  },
+  { 
+    "id": 34, 
+    "verbo": "acepillar"
+  },
+  { 
+    "id": 35, 
+    "verbo": "aceptar"
+  },
+  { 
+    "id": 36, 
+    "verbo": "acerar"
+  },
+  { 
+    "id": 37, 
+    "verbo": "acercar"
+  },
+  { 
+    "id": 38, 
+    "verbo": "achatar"
+  },
+  { 
+    "id": 39, 
+    "verbo": "acicalar"
+  },
+  { 
+    "id": 40, 
+    "verbo": "aclamar"
+  },
+  { 
+    "id": 41, 
+    "verbo": "aclarar"
+  },
+  { 
+    "id": 42, 
+    "verbo": "aclimatar"
+  },
+  { 
+    "id": 43, 
+    "verbo": "acoger"
+  },
+  { 
+    "id": 44, 
+    "verbo": "acolchar"
+  },
+  { 
+    "id": 45, 
+    "verbo": "acometer"
+  },
+  { 
+    "id": 46, 
+    "verbo": "acomodar"
+  },
+  { 
+    "id": 47, 
+    "verbo": "acompañar"
+  },
+  { 
+    "id": 48, 
+    "verbo": "aconsejar"
+  },
+  { 
+    "id": 49, 
+    "verbo": "acoplar"
+  },
+  { 
+    "id": 50, 
+    "verbo": "acordar"
+  },
+  { 
+    "id": 51, 
+    "verbo": "acorralar"
+  },
+  { 
+    "id": 52, 
+    "verbo": "acosar"
+  },
+  { 
+    "id": 53, 
+    "verbo": "acostar"
+  },
+  { 
+    "id": 54, 
+    "verbo": "acostarse"
+  },
+  { 
+    "id": 55, 
+    "verbo": "acotar"
+  },
+  { 
+    "id": 56, 
+    "verbo": "acreditar"
+  },
+  { 
+    "id": 57, 
+    "verbo": "acribillar"
+  },
+  { 
+    "id": 58, 
+    "verbo": "activar"
+  },
+  { 
+    "id": 59, 
+    "verbo": "actuar"
+  },
+  { 
+    "id": 60, 
+    "verbo": "acuartelar"
+  },
+  { 
+    "id": 61, 
+    "verbo": "acumular"
+  },
+  { 
+    "id": 62, 
+    "verbo": "acunar"
+  },
+  { 
+    "id": 63, 
+    "verbo": "acusar"
+  },
+  { 
+    "id": 64, 
+    "verbo": "acuñar"
+  },
+  { 
+    "id": 65, 
+    "verbo": "adaptar"
+  },
+  { 
+    "id": 66, 
+    "verbo": "adecentar"
+  },
+  { 
+    "id": 67, 
+    "verbo": "adelantar"
+  },
+  { 
+    "id": 68, 
+    "verbo": "adherir"
+  },
+  { 
+    "id": 69, 
+    "verbo": "adiestrar"
+  },
+  { 
+    "id": 70, 
+    "verbo": "adivinar"
+  },
+  { 
+    "id": 71, 
+    "verbo": "adjuntar"
+  },
+  { 
+    "id": 72, 
+    "verbo": "administrar"
+  },
+  { 
+    "id": 73, 
+    "verbo": "admirar"
+  },
+  { 
+    "id": 74, 
+    "verbo": "admitir"
+  },
+  { 
+    "id": 75, 
+    "verbo": "adobar"
+  },
+  { 
+    "id": 76, 
+    "verbo": "adoptar"
+  },
+  { 
+    "id": 77, 
+    "verbo": "adorar"
+  },
+  { 
+    "id": 78, 
+    "verbo": "adornar"
+  },
+  { 
+    "id": 79, 
+    "verbo": "adular"
+  },
+  { 
+    "id": 80, 
+    "verbo": "adulterar"
+  },
+  { 
+    "id": 81, 
+    "verbo": "afectar"
+  },
+  { 
+    "id": 82, 
+    "verbo": "afeitar"
+  },
+  { 
+    "id": 83, 
+    "verbo": "afeitarse"
+  },
+  { 
+    "id": 84, 
+    "verbo": "afilar"
+  },
+  { 
+    "id": 85, 
+    "verbo": "afinar"
+  },
+  { 
+    "id": 86, 
+    "verbo": "afirmar"
+  },
+  { 
+    "id": 87, 
+    "verbo": "agarrar"
+  },
+  { 
+    "id": 88, 
+    "verbo": "agitar"
+  },
+  { 
+    "id": 89, 
+    "verbo": "agorar"
+  },
+  { 
+    "id": 90, 
+    "verbo": "agriar"
+  },
+  { 
+    "id": 91, 
+    "verbo": "ahogar"
+  },
+  { 
+    "id": 92, 
+    "verbo": "alargar"
+  },
+  { 
+    "id": 93, 
+    "verbo": "alegrar"
+  },
+  { 
+    "id": 94, 
+    "verbo": "alimentar"
+  },
+  { 
+    "id": 95, 
+    "verbo": "aliviar"
+  },
+  { 
+    "id": 96, 
+    "verbo": "alquilar"
+  },
+  { 
+    "id": 97, 
+    "verbo": "amar"
+  },
+  { 
+    "id": 98, 
+    "verbo": "amenazar"
+  },
+  { 
+    "id": 99, 
+    "verbo": "ampliar"
+  },
+  { 
+    "id": 100, 
+    "verbo": "andar"
+  },
+  { 
+    "id": 101, 
+    "verbo": "animar"
+  },
+  { 
+    "id": 102, 
+    "verbo": "anticipar"
+  },
+  { 
+    "id": 103, 
+    "verbo": "apagar"
+  },
+  { 
+    "id": 104, 
+    "verbo": "aparcar"
+  },
+  { 
+    "id": 105, 
+    "verbo": "aparecer"
+  },
+  { 
+    "id": 106, 
+    "verbo": "aplaudir"
+  },
+  { 
+    "id": 107, 
+    "verbo": "aplicar"
+  },
+  { 
+    "id": 108, 
+    "verbo": "apostar"
+  },
+  { 
+    "id": 109, 
+    "verbo": "apoyar"
+  },
+  { 
+    "id": 110, 
+    "verbo": "aprender"
+  },
+  { 
+    "id": 111, 
+    "verbo": "aprovechar"
+  },
+  { 
+    "id": 112, 
+    "verbo": "apuntar"
+  },
+  { 
+    "id": 113, 
+    "verbo": "arder"
+  },
+  { 
+    "id": 114, 
+    "verbo": "arreglar"
+  },
+  { 
+    "id": 115, 
+    "verbo": "arrepentir"
+  },
+  { 
+    "id": 116, 
+    "verbo": "arriesgar"
+  },
+  { 
+    "id": 117, 
+    "verbo": "arrojar"
+  },
+  { 
+    "id": 118, 
+    "verbo": "asegurar"
+  },
+  { 
+    "id": 119, 
+    "verbo": "asentir"
+  },
+  { 
+    "id": 120, 
+    "verbo": "asesinar"
+  },
+  { 
+    "id": 121, 
+    "verbo": "asistir"
+  },
+  { 
+    "id": 122, 
+    "verbo": "asolar"
+  },
+  { 
+    "id": 123, 
+    "verbo": "atacar"
+  },
+  { 
+    "id": 124, 
+    "verbo": "atender"
+  },
+  { 
+    "id": 125, 
+    "verbo": "atenuar"
+  },
+  { 
+    "id": 126, 
+    "verbo": "aterrar"
+  },
+  { 
+    "id": 127, 
+    "verbo": "aterrizar"
+  },
+  { 
+    "id": 128, 
+    "verbo": "atracar"
+  },
+  { 
+    "id": 129, 
+    "verbo": "atrapar"
+  },
+  { 
+    "id": 130, 
+    "verbo": "aumentar"
+  },
+  { 
+    "id": 131, 
+    "verbo": "avanzar"
+  },
+  { 
+    "id": 132, 
+    "verbo": "avisar"
+  },
+  { 
+    "id": 133, 
+    "verbo": "ayudar"
+  },
+  { 
+    "id": 134, 
+    "verbo": "añadir"
+  },
+  { 
+    "id": 135, 
+    "verbo": "aflojar"
+  },
+  { 
+    "id": 136, 
+    "verbo": "afrentar"
+  },
+  { 
+    "id": 137, 
+    "verbo": "afrontar"
+  },
+  { 
+    "id": 138, 
+    "verbo": "agenciar"
+  },
+  { 
+    "id": 139, 
+    "verbo": "agotar"
+  },
+  { 
+    "id": 140, 
+    "verbo": "agradar"
+  },
+  { 
+    "id": 141, 
+    "verbo": "agradecer"
+  },
+  { 
+    "id": 142, 
+    "verbo": "agrandar"
+  },
+  { 
+    "id": 143, 
+    "verbo": "agravar"
+  },
+  { 
+    "id": 144, 
+    "verbo": "agraviar"
+  },
+  { 
+    "id": 145, 
+    "verbo": "agrietar"
+  },
+  { 
+    "id": 146, 
+    "verbo": "aguantar"
+  },
+  { 
+    "id": 147, 
+    "verbo": "aguardar"
+  },
+  { 
+    "id": 148, 
+    "verbo": "aguijar"
+  },
+  { 
+    "id": 149, 
+    "verbo": "agujerear"
+  },
+  { 
+    "id": 150, 
+    "verbo": "ahondar"
+  },
+  { 
+    "id": 151, 
+    "verbo": "ahorrar"
+  },
+  { 
+    "id": 152, 
+    "verbo": "airear"
+  },
+  { 
+    "id": 153, 
+    "verbo": "ajustar"
+  },
+  { 
+    "id": 154, 
+    "verbo": "ajusticiar"
+  },
+  { 
+    "id": 155, 
+    "verbo": "alabar"
+  },
+  { 
+    "id": 156, 
+    "verbo": "alabear"
+  },
+  { 
+    "id": 157, 
+    "verbo": "alancear"
+  },
+  { 
+    "id": 158, 
+    "verbo": "alarmar"
+  },
+  { 
+    "id": 159, 
+    "verbo": "alcanzar"
+  },
+  { 
+    "id": 160, 
+    "verbo": "alear"
+  },
+  { 
+    "id": 161, 
+    "verbo": "alegrarse"
+  },
+  { 
+    "id": 162, 
+    "verbo": "alejar"
+  },
+  { 
+    "id": 163, 
+    "verbo": "alertar"
+  },
+  { 
+    "id": 164, 
+    "verbo": "alfombrar"
+  },
+  { 
+    "id": 165, 
+    "verbo": "aligerar"
+  },
+  { 
+    "id": 166, 
+    "verbo": "alisar"
+  },
+  { 
+    "id": 167, 
+    "verbo": "alistar"
+  },
+  { 
+    "id": 168, 
+    "verbo": "allanar"
+  },
+  { 
+    "id": 169, 
+    "verbo": "almacenar"
+  },
+  { 
+    "id": 170, 
+    "verbo": "almorzar"
+  },
+  { 
+    "id": 171, 
+    "verbo": "alojar"
+  },
+  { 
+    "id": 172, 
+    "verbo": "alquitranar"
+  },
+  { 
+    "id": 173, 
+    "verbo": "alterar"
+  },
+  { 
+    "id": 174, 
+    "verbo": "alucinar"
+  },
+  { 
+    "id": 175, 
+    "verbo": "alumbrar"
+  },
+  { 
+    "id": 176, 
+    "verbo": "amainar"
+  },
+  { 
+    "id": 177, 
+    "verbo": "amamantar"
+  },
+  { 
+    "id": 178, 
+    "verbo": "amarrar"
+  },
+  { 
+    "id": 179, 
+    "verbo": "amasar"
+  },
+  { 
+    "id": 180, 
+    "verbo": "ambicionar"
+  },
+  { 
+    "id": 181, 
+    "verbo": "amonestar"
+  },
+  { 
+    "id": 182, 
+    "verbo": "amotinar"
+  },
+  { 
+    "id": 183, 
+    "verbo": "ampollar"
+  },
+  { 
+    "id": 184, 
+    "verbo": "amputar"
+  },
+  { 
+    "id": 185, 
+    "verbo": "amueblar"
+  },
+  { 
+    "id": 186, 
+    "verbo": "anclar"
+  },
+  { 
+    "id": 187, 
+    "verbo": "anestesiar"
+  },
+  { 
+    "id": 188, 
+    "verbo": "anexar"
+  },
+  { 
+    "id": 189, 
+    "verbo": "angostar"
+  },
+  { 
+    "id": 190, 
+    "verbo": "anhelar"
+  },
+  { 
+    "id": 191, 
+    "verbo": "anidar"
+  },
+  { 
+    "id": 192, 
+    "verbo": "aniquilar"
+  },
+  { 
+    "id": 193, 
+    "verbo": "anotar"
+  },
+  { 
+    "id": 194, 
+    "verbo": "anular"
+  },
+  { 
+    "id": 195, 
+    "verbo": "anunciar"
+  },
+  { 
+    "id": 196, 
+    "verbo": "apadrinar"
+  },
+  { 
+    "id": 197, 
+    "verbo": "aparear"
+  },
+  { 
+    "id": 198, 
+    "verbo": "aparejar"
+  },
+  { 
+    "id": 199, 
+    "verbo": "aparentar"
+  },
+  { 
+    "id": 200, 
+    "verbo": "apartar"
+  },
+  { 
+    "id": 201, 
+    "verbo": "apedrear"
+  },
+  { 
+    "id": 202, 
+    "verbo": "apelar"
+  },
+  { 
+    "id": 203, 
+    "verbo": "apestar"
+  },
+  { 
+    "id": 204, 
+    "verbo": "apisonar"
+  },
+  { 
+    "id": 205, 
+    "verbo": "aplanar"
+  },
+  { 
+    "id": 206, 
+    "verbo": "aplastar"
+  },
+  { 
+    "id": 207, 
+    "verbo": "apocopar"
+  },
+  { 
+    "id": 208, 
+    "verbo": "apoderar"
+  },
+  { 
+    "id": 209, 
+    "verbo": "aportar"
+  },
+  { 
+    "id": 210, 
+    "verbo": "apoyarse"
+  },
+  { 
+    "id": 211, 
+    "verbo": "apreciar"
+  },
+  { 
+    "id": 212, 
+    "verbo": "aprehender"
+  },
+  { 
+    "id": 213, 
+    "verbo": "apremiar"
+  },
+  { 
+    "id": 214, 
+    "verbo": "apresurar"
+  },
+  { 
+    "id": 215, 
+    "verbo": "aproximar"
+  },
+  { 
+    "id": 216, 
+    "verbo": "apurarse"
+  },
+  { 
+    "id": 217, 
+    "verbo": "apuñalar"
+  },
+  { 
+    "id": 218, 
+    "verbo": "aquejar"
+  },
+  { 
+    "id": 219, 
+    "verbo": "aquietar"
+  },
+  { 
+    "id": 220, 
+    "verbo": "arañar"
+  },
+  { 
+    "id": 221, 
+    "verbo": "arbitrar"
+  },
+  { 
+    "id": 222, 
+    "verbo": "archivar"
+  },
+  { 
+    "id": 223, 
+    "verbo": "armar"
+  },
+  { 
+    "id": 224, 
+    "verbo": "arponear"
+  },
+  { 
+    "id": 225, 
+    "verbo": "arquear"
+  },
+  { 
+    "id": 226, 
+    "verbo": "arrasar"
+  },
+  { 
+    "id": 227, 
+    "verbo": "arrastrar"
+  },
+  { 
+    "id": 228, 
+    "verbo": "arrastrarse"
+  },
+  { 
+    "id": 229, 
+    "verbo": "arrear"
+  },
+  { 
+    "id": 230, 
+    "verbo": "arrebatar"
+  },
+  { 
+    "id": 231, 
+    "verbo": "arrestar"
+  },
+  { 
+    "id": 232, 
+    "verbo": "arribar"
+  },
+  { 
+    "id": 233, 
+    "verbo": "arrodillarse"
+  },
+  { 
+    "id": 234, 
+    "verbo": "arruinar"
+  },
+  { 
+    "id": 235, 
+    "verbo": "arrullar"
+  },
+  { 
+    "id": 236, 
+    "verbo": "articular"
+  },
+  { 
+    "id": 237, 
+    "verbo": "asaltar"
+  },
+  { 
+    "id": 238, 
+    "verbo": "asar"
+  },
+  { 
+    "id": 239, 
+    "verbo": "asediar"
+  },
+  { 
+    "id": 240, 
+    "verbo": "asesorar"
+  },
+  { 
+    "id": 241, 
+    "verbo": "asfixiar"
+  },
+  { 
+    "id": 242, 
+    "verbo": "asignar"
+  },
+  { 
+    "id": 243, 
+    "verbo": "asimilar"
+  },
+  { 
+    "id": 244, 
+    "verbo": "asociar"
+  },
+  { 
+    "id": 245, 
+    "verbo": "asolear"
+  },
+  { 
+    "id": 246, 
+    "verbo": "asombrar"
+  },
+  { 
+    "id": 247, 
+    "verbo": "aspirar"
+  },
+  { 
+    "id": 248, 
+    "verbo": "asquear"
+  },
+  { 
+    "id": 249, 
+    "verbo": "astillar"
+  },
+  { 
+    "id": 250, 
+    "verbo": "asumir"
+  },
+  { 
+    "id": 251, 
+    "verbo": "asustar"
+  },
+  { 
+    "id": 252, 
+    "verbo": "atajar"
+  },
+  { 
+    "id": 253, 
+    "verbo": "atar"
+  },
+  { 
+    "id": 254, 
+    "verbo": "atontar"
+  },
+  { 
+    "id": 255, 
+    "verbo": "atornillar"
+  },
+  { 
+    "id": 256, 
+    "verbo": "atrasar"
+  },
+  { 
+    "id": 257, 
+    "verbo": "atrever"
+  },
+  { 
+    "id": 258, 
+    "verbo": "atreverse"
+  },
+  { 
+    "id": 259, 
+    "verbo": "atrincherar"
+  },
+  { 
+    "id": 260, 
+    "verbo": "atropellar"
+  },
+  { 
+    "id": 261, 
+    "verbo": "aturdir"
+  },
+  { 
+    "id": 262, 
+    "verbo": "augurar"
+  },
+  { 
+    "id": 263, 
+    "verbo": "auscultar"
+  },
+  { 
+    "id": 264, 
+    "verbo": "auspiciar"
+  },
+  { 
+    "id": 265, 
+    "verbo": "aventajar"
+  },
+  { 
+    "id": 266, 
+    "verbo": "aventurar"
+  },
+  { 
+    "id": 267, 
+    "verbo": "averiguar"
+  },
+  { 
+    "id": 268, 
+    "verbo": "avistar"
+  },
+  { 
+    "id": 269, 
+    "verbo": "avivar"
+  },
+  { 
+    "id": 270, 
+    "verbo": "abastecer"
+  },
+  { 
+    "id": 271, 
+    "verbo": "abogar"
+  },
+  { 
+    "id": 272, 
+    "verbo": "abonar"
+  },
+  { 
+    "id": 273, 
+    "verbo": "aborrecer"
+  },
+  { 
+    "id": 274, 
+    "verbo": "abrigar"
+  },
+  { 
+    "id": 275, 
+    "verbo": "acertar"
+  },
+  { 
+    "id": 276, 
+    "verbo": "acortar"
+  },
+  { 
+    "id": 277, 
+    "verbo": "acostumbrar"
+  },
+  { 
+    "id": 278, 
+    "verbo": "acrecentar"
+  },
+  { 
+    "id": 279, 
+    "verbo": "actualizar"
+  },
+  { 
+    "id": 280, 
+    "verbo": "acudir"
+  },
+  { 
+    "id": 281, 
+    "verbo": "adelgazar"
+  },
+  { 
+    "id": 282, 
+    "verbo": "adquirir"
+  },
+  { 
+    "id": 283, 
+    "verbo": "advertir"
+  },
+  { 
+    "id": 284, 
+    "verbo": "afligir"
+  },
+  { 
+    "id": 285, 
+    "verbo": "agilizar"
+  },
+  { 
+    "id": 286, 
+    "verbo": "agobiar"
+  },
+  { 
+    "id": 287, 
+    "verbo": "agregar"
+  },
+  { 
+    "id": 288, 
+    "verbo": "aguar"
+  },
+  { 
+    "id": 289, 
+    "verbo": "agudizar"
+  },
+  { 
+    "id": 290, 
+    "verbo": "aislar"
+  },
+  { 
+    "id": 291, 
+    "verbo": "alentar"
+  },
+  { 
+    "id": 292, 
+    "verbo": "alinear"
+  },
+  { 
+    "id": 293, 
+    "verbo": "aludir"
+  },
+  { 
+    "id": 294, 
+    "verbo": "alzar"
+  },
+  { 
+    "id": 295, 
+    "verbo": "amanecer"
+  },
+  { 
+    "id": 296, 
+    "verbo": "analizar"
+  },
+  { 
+    "id": 297, 
+    "verbo": "ansiar"
+  },
+  { 
+    "id": 298, 
+    "verbo": "apaciguar"
+  },
+  { 
+    "id": 299, 
+    "verbo": "apetecer"
+  },
+  { 
+    "id": 300, 
+    "verbo": "aplazar"
+  },
+  { 
+    "id": 301, 
+    "verbo": "apretar"
+  },
+  { 
+    "id": 302, 
+    "verbo": "aprobar"
+  },
+  { 
+    "id": 303, 
+    "verbo": "apurar"
+  },
+  { 
+    "id": 304, 
+    "verbo": "argumentar"
+  },
+  { 
+    "id": 305, 
+    "verbo": "arrancar"
+  },
+  { 
+    "id": 306, 
+    "verbo": "ascender"
+  },
+  { 
+    "id": 307, 
+    "verbo": "asentar"
+  },
+  { 
+    "id": 308, 
+    "verbo": "asir"
+  },
+  { 
+    "id": 309, 
+    "verbo": "asomar"
+  },
+  { 
+    "id": 310, 
+    "verbo": "atestiguar"
+  },
+  { 
+    "id": 311, 
+    "verbo": "atraer"
+  },
+  { 
+    "id": 312, 
+    "verbo": "atravesar"
+  },
+  { 
+    "id": 313, 
+    "verbo": "atribuir"
+  },
+  { 
+    "id": 314, 
+    "verbo": "aunar"
+  },
+  { 
+    "id": 315, 
+    "verbo": "autorizar"
+  },
+  { 
+    "id": 316, 
+    "verbo": "auxiliar"
+  },
+  { 
+    "id": 317, 
+    "verbo": "aventar"
+  },
+  { 
+    "id": 318, 
+    "verbo": "avergonzar"
+  },
+  { 
+    "id": 319, 
+    "verbo": "averiar"
+  },
+  { 
+    "id": 320, 
+    "verbo": "ayunar"
+  },
+  { 
+    "id": 321, 
+    "verbo": "azotar"
+  },
+  { 
+    "id": 322, 
+    "verbo": "azucarar"
+  },
+  { 
+    "id": 323, 
+    "verbo": "babear"
+  },
+  { 
+    "id": 324, 
+    "verbo": "bailar"
+  },
+  { 
+    "id": 325, 
+    "verbo": "bajar"
+  },
+  { 
+    "id": 326, 
+    "verbo": "bajarse"
+  },
+  { 
+    "id": 327, 
+    "verbo": "balancear"
+  },
+  { 
+    "id": 328, 
+    "verbo": "balar"
+  },
+  { 
+    "id": 329, 
+    "verbo": "balbucear"
+  },
+  { 
+    "id": 330, 
+    "verbo": "baldar"
+  },
+  { 
+    "id": 331, 
+    "verbo": "bambolear"
+  },
+  { 
+    "id": 332, 
+    "verbo": "barajar"
+  },
+  { 
+    "id": 333, 
+    "verbo": "baratar"
+  },
+  { 
+    "id": 334, 
+    "verbo": "barrer"
+  },
+  { 
+    "id": 335, 
+    "verbo": "barritar"
+  },
+  { 
+    "id": 336, 
+    "verbo": "basar"
+  },
+  { 
+    "id": 337, 
+    "verbo": "bastar"
+  },
+  { 
+    "id": 338, 
+    "verbo": "batallar"
+  },
+  { 
+    "id": 339, 
+    "verbo": "batear"
+  },
+  { 
+    "id": 340, 
+    "verbo": "batir"
+  },
+  { 
+    "id": 341, 
+    "verbo": "bautizar"
+  },
+  { 
+    "id": 342, 
+    "verbo": "bañar"
+  },
+  { 
+    "id": 343, 
+    "verbo": "bañarse"
+  },
+  { 
+    "id": 344, 
+    "verbo": "beber"
+  },
+  { 
+    "id": 345, 
+    "verbo": "bendecir"
+  },
+  { 
+    "id": 346, 
+    "verbo": "beneficiar"
+  },
+  { 
+    "id": 347, 
+    "verbo": "besar"
+  },
+  { 
+    "id": 348, 
+    "verbo": "birlar"
+  },
+  { 
+    "id": 349, 
+    "verbo": "biselar"
+  },
+  { 
+    "id": 350, 
+    "verbo": "blandir"
+  },
+  { 
+    "id": 351, 
+    "verbo": "blanquear"
+  },
+  { 
+    "id": 352, 
+    "verbo": "blasonar"
+  },
+  { 
+    "id": 353, 
+    "verbo": "bloquear"
+  },
+  { 
+    "id": 354, 
+    "verbo": "boicotear"
+  },
+  { 
+    "id": 355, 
+    "verbo": "bombardear"
+  },
+  { 
+    "id": 356, 
+    "verbo": "bombear"
+  },
+  { 
+    "id": 357, 
+    "verbo": "boquear"
+  },
+  { 
+    "id": 358, 
+    "verbo": "bordar"
+  },
+  { 
+    "id": 359, 
+    "verbo": "bordear"
+  },
+  { 
+    "id": 360, 
+    "verbo": "borrar"
+  },
+  { 
+    "id": 361, 
+    "verbo": "bostezar"
+  },
+  { 
+    "id": 362, 
+    "verbo": "botar"
+  },
+  { 
+    "id": 363, 
+    "verbo": "boxear"
+  },
+  { 
+    "id": 364, 
+    "verbo": "bramar"
+  },
+  { 
+    "id": 365, 
+    "verbo": "brillar"
+  },
+  { 
+    "id": 366, 
+    "verbo": "brincar"
+  },
+  { 
+    "id": 367, 
+    "verbo": "brindar"
+  },
+  { 
+    "id": 368, 
+    "verbo": "bromear"
+  },
+  { 
+    "id": 369, 
+    "verbo": "broncear"
+  },
+  { 
+    "id": 370, 
+    "verbo": "brotar"
+  },
+  { 
+    "id": 371, 
+    "verbo": "bucear"
+  },
+  { 
+    "id": 372, 
+    "verbo": "bufar"
+  },
+  { 
+    "id": 373, 
+    "verbo": "bullir"
+  },
+  { 
+    "id": 374, 
+    "verbo": "burbujear"
+  },
+  { 
+    "id": 375, 
+    "verbo": "burlar"
+  },
+  { 
+    "id": 376, 
+    "verbo": "burlarse"
+  },
+  { 
+    "id": 377, 
+    "verbo": "buscar"
+  },
+  { 
+    "id": 378, 
+    "verbo": "cabalgar"
+  },
+  { 
+    "id": 379, 
+    "verbo": "caber"
+  },
+  { 
+    "id": 380, 
+    "verbo": "cacarear"
+  },
+  { 
+    "id": 381, 
+    "verbo": "caer"
+  },
+  { 
+    "id": 382, 
+    "verbo": "caerse"
+  },
+  { 
+    "id": 383, 
+    "verbo": "calcular"
+  },
+  { 
+    "id": 384, 
+    "verbo": "caldear"
+  },
+  { 
+    "id": 385, 
+    "verbo": "calentar"
+  },
+  { 
+    "id": 386, 
+    "verbo": "calibrar"
+  },
+  { 
+    "id": 387, 
+    "verbo": "callar"
+  },
+  { 
+    "id": 388, 
+    "verbo": "callarse"
+  },
+  { 
+    "id": 389, 
+    "verbo": "calmar"
+  },
+  { 
+    "id": 390, 
+    "verbo": "calumniar"
+  },
+  { 
+    "id": 391, 
+    "verbo": "cambiar"
+  },
+  { 
+    "id": 392, 
+    "verbo": "caminar"
+  },
+  { 
+    "id": 393, 
+    "verbo": "camuflar"
+  },
+  { 
+    "id": 394, 
+    "verbo": "cancelar"
+  },
+  { 
+    "id": 395, 
+    "verbo": "canjear"
+  },
+  { 
+    "id": 396, 
+    "verbo": "cansar"
+  },
+  { 
+    "id": 397, 
+    "verbo": "cansarse"
+  },
+  { 
+    "id": 398, 
+    "verbo": "cantar"
+  },
+  { 
+    "id": 399, 
+    "verbo": "capitular"
+  },
+  { 
+    "id": 400, 
+    "verbo": "captar"
+  },
+  { 
+    "id": 401, 
+    "verbo": "capturar"
+  },
+  { 
+    "id": 402, 
+    "verbo": "cardar"
+  },
+  { 
+    "id": 403, 
+    "verbo": "carenar"
+  },
+  { 
+    "id": 404, 
+    "verbo": "cargar"
+  },
+  { 
+    "id": 405, 
+    "verbo": "carretear"
+  },
+  { 
+    "id": 406, 
+    "verbo": "casar"
+  },
+  { 
+    "id": 407, 
+    "verbo": "casarse"
+  },
+  { 
+    "id": 408, 
+    "verbo": "castigar"
+  },
+  { 
+    "id": 409, 
+    "verbo": "castrar"
+  },
+  { 
+    "id": 410, 
+    "verbo": "catar"
+  },
+  { 
+    "id": 411, 
+    "verbo": "causar"
+  },
+  { 
+    "id": 412, 
+    "verbo": "cavar"
+  },
+  { 
+    "id": 413, 
+    "verbo": "cazar"
+  },
+  { 
+    "id": 414, 
+    "verbo": "cebar"
+  },
+  { 
+    "id": 415, 
+    "verbo": "cecear"
+  },
+  { 
+    "id": 416, 
+    "verbo": "ceder"
+  },
+  { 
+    "id": 417, 
+    "verbo": "cegar"
+  },
+  { 
+    "id": 418, 
+    "verbo": "celar"
+  },
+  { 
+    "id": 419, 
+    "verbo": "celebrar"
+  },
+  { 
+    "id": 420, 
+    "verbo": "cementar"
+  },
+  { 
+    "id": 421, 
+    "verbo": "cenar"
+  },
+  { 
+    "id": 422, 
+    "verbo": "censurar"
+  },
+  { 
+    "id": 423, 
+    "verbo": "centrar"
+  },
+  { 
+    "id": 424, 
+    "verbo": "cepillar"
+  },
+  { 
+    "id": 425, 
+    "verbo": "cepillarse"
+  },
+  { 
+    "id": 426, 
+    "verbo": "cercenar"
+  },
+  { 
+    "id": 427, 
+    "verbo": "cerrar"
+  },
+  { 
+    "id": 428, 
+    "verbo": "cesar"
+  },
+  { 
+    "id": 429, 
+    "verbo": "chapalear"
+  },
+  { 
+    "id": 430, 
+    "verbo": "charlar"
+  },
+  { 
+    "id": 431, 
+    "verbo": "chequear"
+  },
+  { 
+    "id": 432, 
+    "verbo": "chillar"
+  },
+  { 
+    "id": 433, 
+    "verbo": "chismear"
+  },
+  { 
+    "id": 434, 
+    "verbo": "chismorrear"
+  },
+  { 
+    "id": 435, 
+    "verbo": "chispear"
+  },
+  { 
+    "id": 436, 
+    "verbo": "chorrear"
+  },
+  { 
+    "id": 437, 
+    "verbo": "chupar"
+  },
+  { 
+    "id": 438, 
+    "verbo": "cincelar"
+  },
+  { 
+    "id": 439, 
+    "verbo": "circuir"
+  },
+  { 
+    "id": 440, 
+    "verbo": "circundar"
+  },
+  { 
+    "id": 441, 
+    "verbo": "circunscribir"
+  },
+  { 
+    "id": 442, 
+    "verbo": "citar"
+  },
+  { 
+    "id": 443, 
+    "verbo": "clasificar"
+  },
+  { 
+    "id": 444, 
+    "verbo": "clausurar"
+  },
+  { 
+    "id": 445, 
+    "verbo": "clavar"
+  },
+  { 
+    "id": 446, 
+    "verbo": "clavetear"
+  },
+  { 
+    "id": 447, 
+    "verbo": "cloquear"
+  },
+  { 
+    "id": 448, 
+    "verbo": "coaccionar"
+  },
+  { 
+    "id": 449, 
+    "verbo": "coagular"
+  },
+  { 
+    "id": 450, 
+    "verbo": "cobrar"
+  },
+  { 
+    "id": 451, 
+    "verbo": "cocear"
+  },
+  { 
+    "id": 452, 
+    "verbo": "cocer"
+  },
+  { 
+    "id": 453, 
+    "verbo": "cocinar"
+  },
+  { 
+    "id": 454, 
+    "verbo": "codiciar"
+  },
+  { 
+    "id": 455, 
+    "verbo": "coexistir"
+  },
+  { 
+    "id": 456, 
+    "verbo": "coger"
+  },
+  { 
+    "id": 457, 
+    "verbo": "coincidir"
+  },
+  { 
+    "id": 458, 
+    "verbo": "cojear"
+  },
+  { 
+    "id": 459, 
+    "verbo": "colaborar"
+  },
+  { 
+    "id": 460, 
+    "verbo": "coleccionar"
+  },
+  { 
+    "id": 461, 
+    "verbo": "colgar"
+  },
+  { 
+    "id": 462, 
+    "verbo": "colindar"
+  },
+  { 
+    "id": 463, 
+    "verbo": "colmar"
+  },
+  { 
+    "id": 464, 
+    "verbo": "colocar"
+  },
+  { 
+    "id": 465, 
+    "verbo": "colorar"
+  },
+  { 
+    "id": 466, 
+    "verbo": "combatir"
+  },
+  { 
+    "id": 467, 
+    "verbo": "combinar"
+  },
+  { 
+    "id": 468, 
+    "verbo": "comentar"
+  },
+  { 
+    "id": 469, 
+    "verbo": "comenzar"
+  },
+  { 
+    "id": 470, 
+    "verbo": "comer"
+  },
+  { 
+    "id": 471, 
+    "verbo": "cometer"
+  },
+  { 
+    "id": 472, 
+    "verbo": "comparar"
+  },
+  { 
+    "id": 473, 
+    "verbo": "compeler"
+  },
+  { 
+    "id": 474, 
+    "verbo": "complicar"
+  },
+  { 
+    "id": 475, 
+    "verbo": "comportar"
+  },
+  { 
+    "id": 476, 
+    "verbo": "comprar"
+  },
+  { 
+    "id": 477, 
+    "verbo": "comprender"
+  },
+  { 
+    "id": 478, 
+    "verbo": "concentrarse"
+  },
+  { 
+    "id": 479, 
+    "verbo": "concertar"
+  },
+  { 
+    "id": 480, 
+    "verbo": "conciliar"
+  },
+  { 
+    "id": 481, 
+    "verbo": "concluir"
+  },
+  { 
+    "id": 482, 
+    "verbo": "condenar"
+  },
+  { 
+    "id": 483, 
+    "verbo": "conducir"
+  },
+  { 
+    "id": 484, 
+    "verbo": "confiar"
+  },
+  { 
+    "id": 485, 
+    "verbo": "confluir"
+  },
+  { 
+    "id": 486, 
+    "verbo": "confundir"
+  },
+  { 
+    "id": 487, 
+    "verbo": "conseguir"
+  },
+  { 
+    "id": 488, 
+    "verbo": "considerar"
+  },
+  { 
+    "id": 489, 
+    "verbo": "consistir"
+  },
+  { 
+    "id": 490, 
+    "verbo": "construir"
+  },
+  { 
+    "id": 491, 
+    "verbo": "contar"
+  },
+  { 
+    "id": 492, 
+    "verbo": "contener"
+  },
+  { 
+    "id": 493, 
+    "verbo": "continuar"
+  },
+  { 
+    "id": 494, 
+    "verbo": "contraer"
+  },
+  { 
+    "id": 495, 
+    "verbo": "convencer"
+  },
+  { 
+    "id": 496, 
+    "verbo": "convertir"
+  },
+  { 
+    "id": 497, 
+    "verbo": "corregir"
+  },
+  { 
+    "id": 498, 
+    "verbo": "correr"
+  },
+  { 
+    "id": 499, 
+    "verbo": "cortar"
+  },
+  { 
+    "id": 500, 
+    "verbo": "coser"
+  },
+  { 
+    "id": 501, 
+    "verbo": "costar"
+  },
+  { 
+    "id": 502, 
+    "verbo": "crear"
+  },
+  { 
+    "id": 503, 
+    "verbo": "crecer"
+  },
+  { 
+    "id": 504, 
+    "verbo": "creer"
+  },
+  { 
+    "id": 505, 
+    "verbo": "criar"
+  },
+  { 
+    "id": 506, 
+    "verbo": "criticar"
+  },
+  { 
+    "id": 507, 
+    "verbo": "crujir"
+  },
+  { 
+    "id": 508, 
+    "verbo": "cruzar"
+  },
+  { 
+    "id": 509, 
+    "verbo": "cubrir"
+  },
+  { 
+    "id": 510, 
+    "verbo": "cuidar"
+  },
+  { 
+    "id": 511, 
+    "verbo": "cumplir"
+  },
+  { 
+    "id": 512, 
+    "verbo": "curar"
+  },
+  { 
+    "id": 513, 
+    "verbo": "caducar"
+  },
+  { 
+    "id": 514, 
+    "verbo": "calzar"
+  },
+  { 
+    "id": 515, 
+    "verbo": "caracterizar"
+  },
+  { 
+    "id": 516, 
+    "verbo": "carecer"
+  },
+  { 
+    "id": 517, 
+    "verbo": "chatear"
+  },
+  { 
+    "id": 518, 
+    "verbo": "chocar"
+  },
+  { 
+    "id": 519, 
+    "verbo": "cicatrizar"
+  },
+  { 
+    "id": 520, 
+    "verbo": "circular"
+  },
+  { 
+    "id": 521, 
+    "verbo": "cohibir"
+  },
+  { 
+    "id": 522, 
+    "verbo": "colar"
+  },
+  { 
+    "id": 523, 
+    "verbo": "comerciar"
+  },
+  { 
+    "id": 524, 
+    "verbo": "comisionar"
+  },
+  { 
+    "id": 525, 
+    "verbo": "compactar"
+  },
+  { 
+    "id": 526, 
+    "verbo": "compartir"
+  },
+  { 
+    "id": 527, 
+    "verbo": "compensar"
+  },
+  { 
+    "id": 528, 
+    "verbo": "competir"
+  },
+  { 
+    "id": 529, 
+    "verbo": "compilar"
+  },
+  { 
+    "id": 530, 
+    "verbo": "complacer"
+  },
+  { 
+    "id": 531, 
+    "verbo": "completar"
+  },
+  { 
+    "id": 532, 
+    "verbo": "componer"
+  },
+  { 
+    "id": 533, 
+    "verbo": "comportarse"
+  },
+  { 
+    "id": 534, 
+    "verbo": "comprobar"
+  },
+  { 
+    "id": 535, 
+    "verbo": "comprometer"
+  },
+  { 
+    "id": 536, 
+    "verbo": "computar"
+  },
+  { 
+    "id": 537, 
+    "verbo": "comunicar"
+  },
+  { 
+    "id": 538, 
+    "verbo": "concebir"
+  },
+  { 
+    "id": 539, 
+    "verbo": "conceder"
+  },
+  { 
+    "id": 540, 
+    "verbo": "concentrar"
+  },
+  { 
+    "id": 541, 
+    "verbo": "concordar"
+  },
+  { 
+    "id": 542, 
+    "verbo": "concretar"
+  },
+  { 
+    "id": 543, 
+    "verbo": "condensar"
+  },
+  { 
+    "id": 544, 
+    "verbo": "condicionar"
+  },
+  { 
+    "id": 545, 
+    "verbo": "conectar"
+  },
+  { 
+    "id": 546, 
+    "verbo": "conexionar"
+  },
+  { 
+    "id": 547, 
+    "verbo": "confeccionar"
+  },
+  { 
+    "id": 548, 
+    "verbo": "conferir"
+  },
+  { 
+    "id": 549, 
+    "verbo": "confesar"
+  },
+  { 
+    "id": 550, 
+    "verbo": "configurar"
+  },
+  { 
+    "id": 551, 
+    "verbo": "confinar"
+  },
+  { 
+    "id": 552, 
+    "verbo": "confirmar"
+  },
+  { 
+    "id": 553, 
+    "verbo": "conformar"
+  },
+  { 
+    "id": 554, 
+    "verbo": "confortar"
+  },
+  { 
+    "id": 555, 
+    "verbo": "confrontar"
+  },
+  { 
+    "id": 556, 
+    "verbo": "congelar"
+  },
+  { 
+    "id": 557, 
+    "verbo": "congelarse"
+  },
+  { 
+    "id": 558, 
+    "verbo": "congratular"
+  },
+  { 
+    "id": 559, 
+    "verbo": "conjeturar"
+  },
+  { 
+    "id": 560, 
+    "verbo": "conjugar"
+  },
+  { 
+    "id": 561, 
+    "verbo": "conllevar"
+  },
+  { 
+    "id": 562, 
+    "verbo": "conmover"
+  },
+  { 
+    "id": 563, 
+    "verbo": "conocer"
+  },
+  { 
+    "id": 564, 
+    "verbo": "conquistar"
+  },
+  { 
+    "id": 565, 
+    "verbo": "consagrar"
+  },
+  { 
+    "id": 566, 
+    "verbo": "consentir"
+  },
+  { 
+    "id": 567, 
+    "verbo": "conservar"
+  },
+  { 
+    "id": 568, 
+    "verbo": "consignar"
+  },
+  { 
+    "id": 569, 
+    "verbo": "consolidar"
+  },
+  { 
+    "id": 570, 
+    "verbo": "conspirar"
+  },
+  { 
+    "id": 571, 
+    "verbo": "constar"
+  },
+  { 
+    "id": 572, 
+    "verbo": "constatar"
+  },
+  { 
+    "id": 573, 
+    "verbo": "constituir"
+  },
+  { 
+    "id": 574, 
+    "verbo": "consultar"
+  },
+  { 
+    "id": 575, 
+    "verbo": "consumir"
+  },
+  { 
+    "id": 576, 
+    "verbo": "contactar"
+  },
+  { 
+    "id": 577, 
+    "verbo": "contagiar"
+  },
+  { 
+    "id": 578, 
+    "verbo": "contaminar"
+  },
+  { 
+    "id": 579, 
+    "verbo": "contemplar"
+  },
+  { 
+    "id": 580, 
+    "verbo": "contentar"
+  },
+  { 
+    "id": 581, 
+    "verbo": "contestar"
+  },
+  { 
+    "id": 582, 
+    "verbo": "contrabalancear"
+  },
+  { 
+    "id": 583, 
+    "verbo": "contradecir"
+  },
+  { 
+    "id": 584, 
+    "verbo": "contramandar"
+  },
+  { 
+    "id": 585, 
+    "verbo": "contrarrestar"
+  },
+  { 
+    "id": 586, 
+    "verbo": "contrastar"
+  },
+  { 
+    "id": 587, 
+    "verbo": "contratar"
+  },
+  { 
+    "id": 588, 
+    "verbo": "contribuir"
+  },
+  { 
+    "id": 589, 
+    "verbo": "controlar"
+  },
+  { 
+    "id": 590, 
+    "verbo": "convalidar"
+  },
+  { 
+    "id": 591, 
+    "verbo": "conversar"
+  },
+  { 
+    "id": 592, 
+    "verbo": "convidar"
+  },
+  { 
+    "id": 593, 
+    "verbo": "convivir"
+  },
+  { 
+    "id": 594, 
+    "verbo": "convulsionar"
+  },
+  { 
+    "id": 595, 
+    "verbo": "cooperar"
+  },
+  { 
+    "id": 596, 
+    "verbo": "coordinar"
+  },
+  { 
+    "id": 597, 
+    "verbo": "copiar"
+  },
+  { 
+    "id": 598, 
+    "verbo": "copular"
+  },
+  { 
+    "id": 599, 
+    "verbo": "coquetear"
+  },
+  { 
+    "id": 600, 
+    "verbo": "coronar"
+  },
+  { 
+    "id": 601, 
+    "verbo": "corresponder"
+  },
+  { 
+    "id": 602, 
+    "verbo": "corroborar"
+  },
+  { 
+    "id": 603, 
+    "verbo": "cortejar"
+  },
+  { 
+    "id": 604, 
+    "verbo": "cosechar"
+  },
+  { 
+    "id": 605, 
+    "verbo": "cosquillear"
+  },
+  { 
+    "id": 606, 
+    "verbo": "cotejar"
+  },
+  { 
+    "id": 607, 
+    "verbo": "cotillear"
+  },
+  { 
+    "id": 608, 
+    "verbo": "crepitar"
+  },
+  { 
+    "id": 609, 
+    "verbo": "croar"
+  },
+  { 
+    "id": 610, 
+    "verbo": "cronometrar"
+  },
+  { 
+    "id": 611, 
+    "verbo": "cuadrar"
+  },
+  { 
+    "id": 612, 
+    "verbo": "cuajar"
+  },
+  { 
+    "id": 613, 
+    "verbo": "cuartear"
+  },
+  { 
+    "id": 614, 
+    "verbo": "cuchichear"
+  },
+  { 
+    "id": 615, 
+    "verbo": "cuestionar"
+  },
+  { 
+    "id": 616, 
+    "verbo": "culminar"
+  },
+  { 
+    "id": 617, 
+    "verbo": "culpar"
+  },
+  { 
+    "id": 618, 
+    "verbo": "cultivar"
+  },
+  { 
+    "id": 619, 
+    "verbo": "cundir"
+  },
+  { 
+    "id": 620, 
+    "verbo": "cursar"
+  },
+  { 
+    "id": 621, 
+    "verbo": "curtir"
+  },
+  { 
+    "id": 622, 
+    "verbo": "curvar"
+  },
+  { 
+    "id": 623, 
+    "verbo": "custodiar"
+  },
+  { 
+    "id": 624, 
+    "verbo": "damnificar"
+  },
+  { 
+    "id": 625, 
+    "verbo": "dar"
+  },
+  { 
+    "id": 626, 
+    "verbo": "datar"
+  },
+  { 
+    "id": 627, 
+    "verbo": "dañar"
+  },
+  { 
+    "id": 628, 
+    "verbo": "deambular"
+  },
+  { 
+    "id": 629, 
+    "verbo": "debatir"
+  },
+  { 
+    "id": 630, 
+    "verbo": "deber"
+  },
+  { 
+    "id": 631, 
+    "verbo": "debilitar"
+  },
+  { 
+    "id": 632, 
+    "verbo": "decantar"
+  },
+  { 
+    "id": 633, 
+    "verbo": "decapitar"
+  },
+  { 
+    "id": 634, 
+    "verbo": "decepcionar"
+  },
+  { 
+    "id": 635, 
+    "verbo": "decidir"
+  },
+  { 
+    "id": 636, 
+    "verbo": "decidirse"
+  },
+  { 
+    "id": 637, 
+    "verbo": "decir"
+  },
+  { 
+    "id": 638, 
+    "verbo": "declamar"
+  },
+  { 
+    "id": 639, 
+    "verbo": "declarar"
+  },
+  { 
+    "id": 640, 
+    "verbo": "declinar"
+  },
+  { 
+    "id": 641, 
+    "verbo": "decomisar"
+  },
+  { 
+    "id": 642, 
+    "verbo": "decorar"
+  },
+  { 
+    "id": 643, 
+    "verbo": "decretar"
+  },
+  { 
+    "id": 644, 
+    "verbo": "dedicar"
+  },
+  { 
+    "id": 645, 
+    "verbo": "deducir"
+  },
+  { 
+    "id": 646, 
+    "verbo": "defender"
+  },
+  { 
+    "id": 647, 
+    "verbo": "definir"
+  },
+  { 
+    "id": 648, 
+    "verbo": "deformar"
+  },
+  { 
+    "id": 649, 
+    "verbo": "defraudar"
+  },
+  { 
+    "id": 650, 
+    "verbo": "degenerar"
+  },
+  { 
+    "id": 651, 
+    "verbo": "degradar"
+  },
+  { 
+    "id": 652, 
+    "verbo": "degustar"
+  },
+  { 
+    "id": 653, 
+    "verbo": "dejar"
+  },
+  { 
+    "id": 654, 
+    "verbo": "delatar"
+  },
+  { 
+    "id": 655, 
+    "verbo": "deleitar"
+  },
+  { 
+    "id": 656, 
+    "verbo": "deletrear"
+  },
+  { 
+    "id": 657, 
+    "verbo": "deliberar"
+  },
+  { 
+    "id": 658, 
+    "verbo": "delimitar"
+  },
+  { 
+    "id": 659, 
+    "verbo": "delinear"
+  },
+  { 
+    "id": 660, 
+    "verbo": "demandar"
+  },
+  { 
+    "id": 661, 
+    "verbo": "demoler"
+  },
+  { 
+    "id": 662, 
+    "verbo": "demorar"
+  },
+  { 
+    "id": 663, 
+    "verbo": "demostrar"
+  },
+  { 
+    "id": 664, 
+    "verbo": "denigrar"
+  },
+  { 
+    "id": 665, 
+    "verbo": "denominar"
+  },
+  { 
+    "id": 666, 
+    "verbo": "denotar"
+  },
+  { 
+    "id": 667, 
+    "verbo": "denunciar"
+  },
+  { 
+    "id": 668, 
+    "verbo": "depender"
+  },
+  { 
+    "id": 669, 
+    "verbo": "deplorar"
+  },
+  { 
+    "id": 670, 
+    "verbo": "deportar"
+  },
+  { 
+    "id": 671, 
+    "verbo": "depositar"
+  },
+  { 
+    "id": 672, 
+    "verbo": "depravar"
+  },
+  { 
+    "id": 673, 
+    "verbo": "depreciar"
+  },
+  { 
+    "id": 674, 
+    "verbo": "deprimir"
+  },
+  { 
+    "id": 675, 
+    "verbo": "depurar"
+  },
+  { 
+    "id": 676, 
+    "verbo": "derivar"
+  },
+  { 
+    "id": 677, 
+    "verbo": "derramar"
+  },
+  { 
+    "id": 678, 
+    "verbo": "derribar"
+  },
+  { 
+    "id": 679, 
+    "verbo": "derrochar"
+  },
+  { 
+    "id": 680, 
+    "verbo": "derrotar"
+  },
+  { 
+    "id": 681, 
+    "verbo": "derruir"
+  },
+  { 
+    "id": 682, 
+    "verbo": "desabrochar"
+  },
+  { 
+    "id": 683, 
+    "verbo": "desacreditar"
+  },
+  { 
+    "id": 684, 
+    "verbo": "desactivar"
+  },
+  { 
+    "id": 685, 
+    "verbo": "desahuciar"
+  },
+  { 
+    "id": 686, 
+    "verbo": "desalojar"
+  },
+  { 
+    "id": 687, 
+    "verbo": "desanimar"
+  },
+  { 
+    "id": 688, 
+    "verbo": "desaparecer"
+  },
+  { 
+    "id": 689, 
+    "verbo": "desarmar"
+  },
+  { 
+    "id": 690, 
+    "verbo": "desarreglar"
+  },
+  { 
+    "id": 691, 
+    "verbo": "desarrollar"
+  },
+  { 
+    "id": 692, 
+    "verbo": "desatar"
+  },
+  { 
+    "id": 693, 
+    "verbo": "desayunar"
+  },
+  { 
+    "id": 694, 
+    "verbo": "descansar"
+  },
+  { 
+    "id": 695, 
+    "verbo": "descarrilar"
+  },
+  { 
+    "id": 696, 
+    "verbo": "descartar"
+  },
+  { 
+    "id": 697, 
+    "verbo": "descascarar"
+  },
+  { 
+    "id": 698, 
+    "verbo": "descifrar"
+  },
+  { 
+    "id": 699, 
+    "verbo": "desconectar"
+  },
+  { 
+    "id": 700, 
+    "verbo": "descongelar"
+  },
+  { 
+    "id": 701, 
+    "verbo": "descontaminar"
+  },
+  { 
+    "id": 702, 
+    "verbo": "describir"
+  },
+  { 
+    "id": 703, 
+    "verbo": "descubrir"
+  },
+  { 
+    "id": 704, 
+    "verbo": "descuidar"
+  },
+  { 
+    "id": 705, 
+    "verbo": "desdeñar"
+  },
+  { 
+    "id": 706, 
+    "verbo": "desdibujar"
+  },
+  { 
+    "id": 707, 
+    "verbo": "desdoblar"
+  },
+  { 
+    "id": 708, 
+    "verbo": "desear"
+  },
+  { 
+    "id": 709, 
+    "verbo": "desechar"
+  },
+  { 
+    "id": 710, 
+    "verbo": "desembolsar"
+  },
+  { 
+    "id": 711, 
+    "verbo": "desencantar"
+  },
+  { 
+    "id": 712, 
+    "verbo": "desenchufar"
+  },
+  { 
+    "id": 713, 
+    "verbo": "desenganchar"
+  },
+  { 
+    "id": 714, 
+    "verbo": "desenmarañar"
+  },
+  { 
+    "id": 715, 
+    "verbo": "desenredar"
+  },
+  { 
+    "id": 716, 
+    "verbo": "desenrollar"
+  },
+  { 
+    "id": 717, 
+    "verbo": "desentonar"
+  },
+  { 
+    "id": 718, 
+    "verbo": "desertar"
+  },
+  { 
+    "id": 719, 
+    "verbo": "desestimar"
+  },
+  { 
+    "id": 720, 
+    "verbo": "desfigurar"
+  },
+  { 
+    "id": 721, 
+    "verbo": "desfilar"
+  },
+  { 
+    "id": 722, 
+    "verbo": "desgarrar"
+  },
+  { 
+    "id": 723, 
+    "verbo": "desglosar"
+  },
+  { 
+    "id": 724, 
+    "verbo": "deshidratar"
+  },
+  { 
+    "id": 725, 
+    "verbo": "deshilachar"
+  },
+  { 
+    "id": 726, 
+    "verbo": "deshojar"
+  },
+  { 
+    "id": 727, 
+    "verbo": "deshonrar"
+  },
+  { 
+    "id": 728, 
+    "verbo": "deshuesar"
+  },
+  { 
+    "id": 729, 
+    "verbo": "designar"
+  },
+  { 
+    "id": 730, 
+    "verbo": "desilusionar"
+  },
+  { 
+    "id": 731, 
+    "verbo": "desinfectar"
+  },
+  { 
+    "id": 732, 
+    "verbo": "desinflar"
+  },
+  { 
+    "id": 733, 
+    "verbo": "desintegrar"
+  },
+  { 
+    "id": 734, 
+    "verbo": "desistir"
+  },
+  { 
+    "id": 735, 
+    "verbo": "deslindar"
+  },
+  { 
+    "id": 736, 
+    "verbo": "deslumbrar"
+  },
+  { 
+    "id": 737, 
+    "verbo": "desmantelar"
+  },
+  { 
+    "id": 738, 
+    "verbo": "despedir"
+  },
+  { 
+    "id": 739, 
+    "verbo": "destruir"
+  },
+  { 
+    "id": 740, 
+    "verbo": "detener"
+  },
+  { 
+    "id": 741, 
+    "verbo": "devolver"
+  },
+  { 
+    "id": 742, 
+    "verbo": "dibujar"
+  },
+  { 
+    "id": 743, 
+    "verbo": "dirigir"
+  },
+  { 
+    "id": 744, 
+    "verbo": "disculpar"
+  },
+  { 
+    "id": 745, 
+    "verbo": "discutir"
+  },
+  { 
+    "id": 746, 
+    "verbo": "disentir"
+  },
+  { 
+    "id": 747, 
+    "verbo": "disfrutar"
+  },
+  { 
+    "id": 748, 
+    "verbo": "disolver"
+  },
+  { 
+    "id": 749, 
+    "verbo": "disponer"
+  },
+  { 
+    "id": 750, 
+    "verbo": "distinguir"
+  },
+  { 
+    "id": 751, 
+    "verbo": "distribuir"
+  },
+  { 
+    "id": 752, 
+    "verbo": "divertir"
+  },
+  { 
+    "id": 753, 
+    "verbo": "dividir"
+  },
+  { 
+    "id": 754, 
+    "verbo": "doblar"
+  },
+  { 
+    "id": 755, 
+    "verbo": "doler"
+  },
+  { 
+    "id": 756, 
+    "verbo": "dormir"
+  },
+  { 
+    "id": 757, 
+    "verbo": "dudar"
+  },
+  { 
+    "id": 758, 
+    "verbo": "durar"
+  },
+  { 
+    "id": 759, 
+    "verbo": "danzar"
+  },
+  { 
+    "id": 760, 
+    "verbo": "delegar"
+  },
+  { 
+    "id": 761, 
+    "verbo": "deponer"
+  },
+  { 
+    "id": 762, 
+    "verbo": "derretir"
+  },
+  { 
+    "id": 763, 
+    "verbo": "descargar"
+  },
+  { 
+    "id": 764, 
+    "verbo": "descender"
+  },
+  { 
+    "id": 765, 
+    "verbo": "descolgar"
+  },
+  { 
+    "id": 766, 
+    "verbo": "descomponer"
+  },
+  { 
+    "id": 767, 
+    "verbo": "desconocer"
+  },
+  { 
+    "id": 768, 
+    "verbo": "desembarcar"
+  },
+  { 
+    "id": 769, 
+    "verbo": "desenvolver"
+  },
+  { 
+    "id": 770, 
+    "verbo": "deshacer"
+  },
+  { 
+    "id": 771, 
+    "verbo": "desmayarse"
+  },
+  { 
+    "id": 772, 
+    "verbo": "desmigajar"
+  },
+  { 
+    "id": 773, 
+    "verbo": "desnudar"
+  },
+  { 
+    "id": 774, 
+    "verbo": "desnudarse"
+  },
+  { 
+    "id": 775, 
+    "verbo": "desobedecer"
+  },
+  { 
+    "id": 776, 
+    "verbo": "desocupar"
+  },
+  { 
+    "id": 777, 
+    "verbo": "desovar"
+  },
+  { 
+    "id": 778, 
+    "verbo": "despachar"
+  },
+  { 
+    "id": 779, 
+    "verbo": "despedirse"
+  },
+  { 
+    "id": 780, 
+    "verbo": "despegar"
+  },
+  { 
+    "id": 781, 
+    "verbo": "despejar"
+  },
+  { 
+    "id": 782, 
+    "verbo": "desperdiciar"
+  },
+  { 
+    "id": 783, 
+    "verbo": "despertar"
+  },
+  { 
+    "id": 784, 
+    "verbo": "despilfarrara"
+  },
+  { 
+    "id": 785, 
+    "verbo": "desplazar"
+  },
+  { 
+    "id": 786, 
+    "verbo": "desplegar"
+  },
+  { 
+    "id": 787, 
+    "verbo": "desplumar"
+  },
+  { 
+    "id": 788, 
+    "verbo": "despojar"
+  },
+  { 
+    "id": 789, 
+    "verbo": "despreciar"
+  },
+  { 
+    "id": 790, 
+    "verbo": "despuntar"
+  },
+  { 
+    "id": 791, 
+    "verbo": "desquiciar"
+  },
+  { 
+    "id": 792, 
+    "verbo": "destacar"
+  },
+  { 
+    "id": 793, 
+    "verbo": "destellar"
+  },
+  { 
+    "id": 794, 
+    "verbo": "destetar"
+  },
+  { 
+    "id": 795, 
+    "verbo": "destilar"
+  },
+  { 
+    "id": 796, 
+    "verbo": "destinar"
+  },
+  { 
+    "id": 797, 
+    "verbo": "destornillar"
+  },
+  { 
+    "id": 798, 
+    "verbo": "destripar"
+  },
+  { 
+    "id": 799, 
+    "verbo": "destronar"
+  },
+  { 
+    "id": 800, 
+    "verbo": "destrozar"
+  },
+  { 
+    "id": 801, 
+    "verbo": "desunir"
+  },
+  { 
+    "id": 802, 
+    "verbo": "desvanecer"
+  },
+  { 
+    "id": 803, 
+    "verbo": "desvestir"
+  },
+  { 
+    "id": 804, 
+    "verbo": "desviar"
+  },
+  { 
+    "id": 805, 
+    "verbo": "detallar"
+  },
+  { 
+    "id": 806, 
+    "verbo": "detectar"
+  },
+  { 
+    "id": 807, 
+    "verbo": "determinar"
+  },
+  { 
+    "id": 808, 
+    "verbo": "detestar"
+  },
+  { 
+    "id": 809, 
+    "verbo": "detonar"
+  },
+  { 
+    "id": 810, 
+    "verbo": "devasta"
+  },
+  { 
+    "id": 811, 
+    "verbo": "devenir"
+  },
+  { 
+    "id": 812, 
+    "verbo": "devorar"
+  },
+  { 
+    "id": 813, 
+    "verbo": "dictar"
+  },
+  { 
+    "id": 814, 
+    "verbo": "difamar"
+  },
+  { 
+    "id": 815, 
+    "verbo": "diferenciar"
+  },
+  { 
+    "id": 816, 
+    "verbo": "diferir"
+  },
+  { 
+    "id": 817, 
+    "verbo": "difundir"
+  },
+  { 
+    "id": 818, 
+    "verbo": "dilatar"
+  },
+  { 
+    "id": 819, 
+    "verbo": "dilucidar"
+  },
+  { 
+    "id": 820, 
+    "verbo": "diluviar"
+  },
+  { 
+    "id": 821, 
+    "verbo": "dimitir"
+  },
+  { 
+    "id": 822, 
+    "verbo": "dinamitar"
+  },
+  { 
+    "id": 823, 
+    "verbo": "dirigirse"
+  },
+  { 
+    "id": 824, 
+    "verbo": "disciplinar"
+  },
+  { 
+    "id": 825, 
+    "verbo": "discrepar"
+  },
+  { 
+    "id": 826, 
+    "verbo": "discriminar"
+  },
+  { 
+    "id": 827, 
+    "verbo": "disculparse"
+  },
+  { 
+    "id": 828, 
+    "verbo": "diseminar"
+  },
+  { 
+    "id": 829, 
+    "verbo": "diseñar"
+  },
+  { 
+    "id": 830, 
+    "verbo": "disfrazar"
+  },
+  { 
+    "id": 831, 
+    "verbo": "disgustar"
+  },
+  { 
+    "id": 832, 
+    "verbo": "disimular"
+  },
+  { 
+    "id": 833, 
+    "verbo": "disipar"
+  },
+  { 
+    "id": 834, 
+    "verbo": "disminuir"
+  },
+  { 
+    "id": 835, 
+    "verbo": "disociar"
+  },
+  { 
+    "id": 836, 
+    "verbo": "dispara"
+  },
+  { 
+    "id": 837, 
+    "verbo": "dispensar"
+  },
+  { 
+    "id": 838, 
+    "verbo": "dispersar"
+  },
+  { 
+    "id": 839, 
+    "verbo": "disputar"
+  },
+  { 
+    "id": 840, 
+    "verbo": "distorsionar"
+  },
+  { 
+    "id": 841, 
+    "verbo": "distraer"
+  },
+  { 
+    "id": 842, 
+    "verbo": "disuadir"
+  },
+  { 
+    "id": 843, 
+    "verbo": "divisar"
+  },
+  { 
+    "id": 844, 
+    "verbo": "divorciar"
+  },
+  { 
+    "id": 845, 
+    "verbo": "divorciarse"
+  },
+  { 
+    "id": 846, 
+    "verbo": "doblarse"
+  },
+  { 
+    "id": 847, 
+    "verbo": "documentar"
+  },
+  { 
+    "id": 848, 
+    "verbo": "domar"
+  },
+  { 
+    "id": 849, 
+    "verbo": "dominar"
+  },
+  { 
+    "id": 850, 
+    "verbo": "donar"
+  },
+  { 
+    "id": 851, 
+    "verbo": "dorar"
+  },
+  { 
+    "id": 852, 
+    "verbo": "dormitar"
+  },
+  { 
+    "id": 853, 
+    "verbo": "dotar"
+  },
+  { 
+    "id": 854, 
+    "verbo": "drenar"
+  },
+  { 
+    "id": 855, 
+    "verbo": "driblar"
+  },
+  { 
+    "id": 856, 
+    "verbo": "duchar"
+  },
+  { 
+    "id": 857, 
+    "verbo": "ducharse"
+  },
+  { 
+    "id": 858, 
+    "verbo": "echar"
+  },
+  { 
+    "id": 859, 
+    "verbo": "eclipsar"
+  },
+  { 
+    "id": 860, 
+    "verbo": "edificar"
+  },
+  { 
+    "id": 861, 
+    "verbo": "editar"
+  },
+  { 
+    "id": 862, 
+    "verbo": "educar"
+  },
+  { 
+    "id": 863, 
+    "verbo": "ejecutar"
+  },
+  { 
+    "id": 864, 
+    "verbo": "ejercer"
+  },
+  { 
+    "id": 865, 
+    "verbo": "ejercitar"
+  },
+  { 
+    "id": 866, 
+    "verbo": "elaborar"
+  },
+  { 
+    "id": 867, 
+    "verbo": "elegir"
+  },
+  { 
+    "id": 868, 
+    "verbo": "elevar"
+  },
+  { 
+    "id": 869, 
+    "verbo": "eliminar"
+  },
+  { 
+    "id": 870, 
+    "verbo": "elogiar"
+  },
+  { 
+    "id": 871, 
+    "verbo": "eludir"
+  },
+  { 
+    "id": 872, 
+    "verbo": "emancipar"
+  },
+  { 
+    "id": 873, 
+    "verbo": "embadurnar"
+  },
+  { 
+    "id": 874, 
+    "verbo": "embalar"
+  },
+  { 
+    "id": 875, 
+    "verbo": "embaldosar"
+  },
+  { 
+    "id": 876, 
+    "verbo": "embalsamar"
+  },
+  { 
+    "id": 877, 
+    "verbo": "embalsar"
+  },
+  { 
+    "id": 878, 
+    "verbo": "embarcar"
+  },
+  { 
+    "id": 879, 
+    "verbo": "embelesar"
+  },
+  { 
+    "id": 880, 
+    "verbo": "emborrachar"
+  },
+  { 
+    "id": 881, 
+    "verbo": "embotar"
+  },
+  { 
+    "id": 882, 
+    "verbo": "embotellar"
+  },
+  { 
+    "id": 883, 
+    "verbo": "embrujar"
+  },
+  { 
+    "id": 884, 
+    "verbo": "embutir"
+  },
+  { 
+    "id": 885, 
+    "verbo": "emerger"
+  },
+  { 
+    "id": 886, 
+    "verbo": "emigrar"
+  },
+  { 
+    "id": 887, 
+    "verbo": "emitir"
+  },
+  { 
+    "id": 888, 
+    "verbo": "empacar"
+  },
+  { 
+    "id": 889, 
+    "verbo": "empalmar"
+  },
+  { 
+    "id": 890, 
+    "verbo": "empapar"
+  },
+  { 
+    "id": 891, 
+    "verbo": "empapelar"
+  },
+  { 
+    "id": 892, 
+    "verbo": "empaquetar"
+  },
+  { 
+    "id": 893, 
+    "verbo": "empastar"
+  },
+  { 
+    "id": 894, 
+    "verbo": "empatar"
+  },
+  { 
+    "id": 895, 
+    "verbo": "empedernir"
+  },
+  { 
+    "id": 896, 
+    "verbo": "empeorar"
+  },
+  { 
+    "id": 897, 
+    "verbo": "empezar"
+  },
+  { 
+    "id": 898, 
+    "verbo": "empeñar"
+  },
+  { 
+    "id": 899, 
+    "verbo": "emplear"
+  },
+  { 
+    "id": 900, 
+    "verbo": "empollar"
+  },
+  { 
+    "id": 901, 
+    "verbo": "emprender"
+  },
+  { 
+    "id": 902, 
+    "verbo": "empujar"
+  },
+  { 
+    "id": 903, 
+    "verbo": "empuñar"
+  },
+  { 
+    "id": 904, 
+    "verbo": "emular"
+  },
+  { 
+    "id": 905, 
+    "verbo": "emulsionar"
+  },
+  { 
+    "id": 906, 
+    "verbo": "enarbolar"
+  },
+  { 
+    "id": 907, 
+    "verbo": "encadenar"
+  },
+  { 
+    "id": 908, 
+    "verbo": "encajar"
+  },
+  { 
+    "id": 909, 
+    "verbo": "encalar"
+  },
+  { 
+    "id": 910, 
+    "verbo": "encandilar"
+  },
+  { 
+    "id": 911, 
+    "verbo": "encantar"
+  },
+  { 
+    "id": 912, 
+    "verbo": "encarcelar"
+  },
+  { 
+    "id": 913, 
+    "verbo": "encargar"
+  },
+  { 
+    "id": 914, 
+    "verbo": "encarnar"
+  },
+  { 
+    "id": 915, 
+    "verbo": "encender"
+  },
+  { 
+    "id": 916, 
+    "verbo": "encerar"
+  },
+  { 
+    "id": 917, 
+    "verbo": "encolar"
+  },
+  { 
+    "id": 918, 
+    "verbo": "encontrar"
+  },
+  { 
+    "id": 919, 
+    "verbo": "encontrarse"
+  },
+  { 
+    "id": 920, 
+    "verbo": "encorvar"
+  },
+  { 
+    "id": 921, 
+    "verbo": "encuadernar"
+  },
+  { 
+    "id": 922, 
+    "verbo": "encuadrar"
+  },
+  { 
+    "id": 923, 
+    "verbo": "encurtir"
+  },
+  { 
+    "id": 924, 
+    "verbo": "endosar"
+  },
+  { 
+    "id": 925, 
+    "verbo": "endulzar"
+  },
+  { 
+    "id": 926, 
+    "verbo": "enervar"
+  },
+  { 
+    "id": 927, 
+    "verbo": "enfadar"
+  },
+  { 
+    "id": 928, 
+    "verbo": "enfardar"
+  },
+  { 
+    "id": 929, 
+    "verbo": "enfermar"
+  },
+  { 
+    "id": 930, 
+    "verbo": "enfrentar"
+  },
+  { 
+    "id": 931, 
+    "verbo": "enganchar"
+  },
+  { 
+    "id": 932, 
+    "verbo": "engañar"
+  },
+  { 
+    "id": 933, 
+    "verbo": "engendrar"
+  },
+  { 
+    "id": 934, 
+    "verbo": "englobar"
+  },
+  { 
+    "id": 935, 
+    "verbo": "engrapar"
+  },
+  { 
+    "id": 936, 
+    "verbo": "engrasar"
+  },
+  { 
+    "id": 937, 
+    "verbo": "engullir"
+  },
+  { 
+    "id": 938, 
+    "verbo": "enharinar"
+  },
+  { 
+    "id": 939, 
+    "verbo": "enhebrar"
+  },
+  { 
+    "id": 940, 
+    "verbo": "enjaular"
+  },
+  { 
+    "id": 941, 
+    "verbo": "enlatar"
+  },
+  { 
+    "id": 942, 
+    "verbo": "enmascarar"
+  },
+  { 
+    "id": 943, 
+    "verbo": "enojar"
+  },
+  { 
+    "id": 944, 
+    "verbo": "enredar"
+  },
+  { 
+    "id": 945, 
+    "verbo": "enrollar"
+  },
+  { 
+    "id": 946, 
+    "verbo": "ensamblar"
+  },
+  { 
+    "id": 947, 
+    "verbo": "ensanchar"
+  },
+  { 
+    "id": 948, 
+    "verbo": "ensartar"
+  },
+  { 
+    "id": 949, 
+    "verbo": "ensayar"
+  },
+  { 
+    "id": 950, 
+    "verbo": "enseñar"
+  },
+  { 
+    "id": 951, 
+    "verbo": "ensillar"
+  },
+  { 
+    "id": 952, 
+    "verbo": "ensuciar"
+  },
+  { 
+    "id": 953, 
+    "verbo": "ensuciarse"
+  },
+  { 
+    "id": 954, 
+    "verbo": "entablar"
+  },
+  { 
+    "id": 955, 
+    "verbo": "entender"
+  },
+  { 
+    "id": 956, 
+    "verbo": "enterrar"
+  },
+  { 
+    "id": 957, 
+    "verbo": "entrar"
+  },
+  { 
+    "id": 958, 
+    "verbo": "entregar"
+  },
+  { 
+    "id": 959, 
+    "verbo": "entrenar"
+  },
+  { 
+    "id": 960, 
+    "verbo": "entrever"
+  },
+  { 
+    "id": 961, 
+    "verbo": "enviar"
+  },
+  { 
+    "id": 962, 
+    "verbo": "envolver"
+  },
+  { 
+    "id": 963, 
+    "verbo": "equivaler"
+  },
+  { 
+    "id": 964, 
+    "verbo": "equivocar"
+  },
+  { 
+    "id": 965, 
+    "verbo": "errar"
+  },
+  { 
+    "id": 966, 
+    "verbo": "escalar"
+  },
+  { 
+    "id": 967, 
+    "verbo": "esconder"
+  },
+  { 
+    "id": 968, 
+    "verbo": "escribir"
+  },
+  { 
+    "id": 969, 
+    "verbo": "escuchar"
+  },
+  { 
+    "id": 970, 
+    "verbo": "esperar"
+  },
+  { 
+    "id": 971, 
+    "verbo": "esquiar"
+  },
+  { 
+    "id": 972, 
+    "verbo": "estafar"
+  },
+  { 
+    "id": 973, 
+    "verbo": "estar"
+  },
+  { 
+    "id": 974, 
+    "verbo": "estudiar"
+  },
+  { 
+    "id": 975, 
+    "verbo": "evitar"
+  },
+  { 
+    "id": 976, 
+    "verbo": "exagerar"
+  },
+  { 
+    "id": 977, 
+    "verbo": "excluir"
+  },
+  { 
+    "id": 978, 
+    "verbo": "exigir"
+  },
+  { 
+    "id": 979, 
+    "verbo": "existir"
+  },
+  { 
+    "id": 980, 
+    "verbo": "expedir"
+  },
+  { 
+    "id": 981, 
+    "verbo": "experimentar"
+  },
+  { 
+    "id": 982, 
+    "verbo": "explicar"
+  },
+  { 
+    "id": 983, 
+    "verbo": "explorar"
+  },
+  { 
+    "id": 984, 
+    "verbo": "explotar"
+  },
+  { 
+    "id": 985, 
+    "verbo": "exponer"
+  },
+  { 
+    "id": 986, 
+    "verbo": "exportar"
+  },
+  { 
+    "id": 987, 
+    "verbo": "exprimir"
+  },
+  { 
+    "id": 988, 
+    "verbo": "expulsar"
+  },
+  { 
+    "id": 989, 
+    "verbo": "extender"
+  },
+  { 
+    "id": 990, 
+    "verbo": "extenuar"
+  },
+  { 
+    "id": 991, 
+    "verbo": "extinguir"
+  },
+  { 
+    "id": 992, 
+    "verbo": "extraer"
+  },
+  { 
+    "id": 993, 
+    "verbo": "efectuar"
+  },
+  { 
+    "id": 994, 
+    "verbo": "emocionar"
+  },
+  { 
+    "id": 995, 
+    "verbo": "enamorar"
+  },
+  { 
+    "id": 996, 
+    "verbo": "encerrar"
+  },
+  { 
+    "id": 997, 
+    "verbo": "encoger"
+  },
+  { 
+    "id": 998, 
+    "verbo": "enfriar"
+  },
+  { 
+    "id": 999, 
+    "verbo": "enriquecer"
+  },
+  { 
+    "id": 1000, 
+    "verbo": "entablillar"
+  },
+  { 
+    "id": 1001, 
+    "verbo": "entenderse"
+  },
+  { 
+    "id": 1002, 
+    "verbo": "enterar"
+  },
+  { 
+    "id": 1003, 
+    "verbo": "entrampar"
+  },
+  { 
+    "id": 1004, 
+    "verbo": "entremezclar"
+  },
+  { 
+    "id": 1005, 
+    "verbo": "entretejer"
+  },
+  { 
+    "id": 1006, 
+    "verbo": "entretener"
+  },
+  { 
+    "id": 1007, 
+    "verbo": "entrevistar"
+  },
+  { 
+    "id": 1008, 
+    "verbo": "entusiasmar"
+  },
+  { 
+    "id": 1009, 
+    "verbo": "enumerar"
+  },
+  { 
+    "id": 1010, 
+    "verbo": "enunciar"
+  },
+  { 
+    "id": 1011, 
+    "verbo": "envainar"
+  },
+  { 
+    "id": 1012, 
+    "verbo": "envejecer"
+  },
+  { 
+    "id": 1013, 
+    "verbo": "envenenar"
+  },
+  { 
+    "id": 1014, 
+    "verbo": "envidiar"
+  },
+  { 
+    "id": 1015, 
+    "verbo": "enyesar"
+  },
+  { 
+    "id": 1016, 
+    "verbo": "equilibrar"
+  },
+  { 
+    "id": 1017, 
+    "verbo": "equipar"
+  },
+  { 
+    "id": 1018, 
+    "verbo": "equivocarse"
+  },
+  { 
+    "id": 1019, 
+    "verbo": "erguir"
+  },
+  { 
+    "id": 1020, 
+    "verbo": "erosionar"
+  },
+  { 
+    "id": 1021, 
+    "verbo": "erradicar"
+  },
+  { 
+    "id": 1022, 
+    "verbo": "eructar"
+  },
+  { 
+    "id": 1023, 
+    "verbo": "escabechar"
+  },
+  { 
+    "id": 1024, 
+    "verbo": "escaldar"
+  },
+  { 
+    "id": 1025, 
+    "verbo": "escalfar"
+  },
+  { 
+    "id": 1026, 
+    "verbo": "escalonar"
+  },
+  { 
+    "id": 1027, 
+    "verbo": "escamotear"
+  },
+  { 
+    "id": 1028, 
+    "verbo": "escampar"
+  },
+  { 
+    "id": 1029, 
+    "verbo": "escandir"
+  },
+  { 
+    "id": 1030, 
+    "verbo": "escapar"
+  },
+  { 
+    "id": 1031, 
+    "verbo": "escaparse"
+  },
+  { 
+    "id": 1032, 
+    "verbo": "escoger"
+  },
+  { 
+    "id": 1033, 
+    "verbo": "escoltar"
+  },
+  { 
+    "id": 1034, 
+    "verbo": "esconderse"
+  },
+  { 
+    "id": 1035, 
+    "verbo": "escoplear"
+  },
+  { 
+    "id": 1036, 
+    "verbo": "escrutar"
+  },
+  { 
+    "id": 1037, 
+    "verbo": "escudar"
+  },
+  { 
+    "id": 1038, 
+    "verbo": "esculpir"
+  },
+  { 
+    "id": 1039, 
+    "verbo": "escupir"
+  },
+  { 
+    "id": 1040, 
+    "verbo": "escurrir"
+  },
+  { 
+    "id": 1041, 
+    "verbo": "esforzar"
+  },
+  { 
+    "id": 1042, 
+    "verbo": "esmaltar"
+  },
+  { 
+    "id": 1043, 
+    "verbo": "espantar"
+  },
+  { 
+    "id": 1044, 
+    "verbo": "esparcir"
+  },
+  { 
+    "id": 1045, 
+    "verbo": "especializar"
+  },
+  { 
+    "id": 1046, 
+    "verbo": "especular"
+  },
+  { 
+    "id": 1047, 
+    "verbo": "espesar"
+  },
+  { 
+    "id": 1048, 
+    "verbo": "espetar"
+  },
+  { 
+    "id": 1049, 
+    "verbo": "espiar"
+  },
+  { 
+    "id": 1050, 
+    "verbo": "espirar"
+  },
+  { 
+    "id": 1051, 
+    "verbo": "espolear"
+  },
+  { 
+    "id": 1052, 
+    "verbo": "espolvorear"
+  },
+  { 
+    "id": 1053, 
+    "verbo": "esposar"
+  },
+  { 
+    "id": 1054, 
+    "verbo": "espumar"
+  },
+  { 
+    "id": 1055, 
+    "verbo": "esquilar"
+  },
+  { 
+    "id": 1056, 
+    "verbo": "esquivar"
+  },
+  { 
+    "id": 1057, 
+    "verbo": "establecer"
+  },
+  { 
+    "id": 1058, 
+    "verbo": "estacionar"
+  },
+  { 
+    "id": 1059, 
+    "verbo": "estallar"
+  },
+  { 
+    "id": 1060, 
+    "verbo": "estampar"
+  },
+  { 
+    "id": 1061, 
+    "verbo": "estar"
+  },
+  { 
+    "id": 1062, 
+    "verbo": "estimar"
+  },
+  { 
+    "id": 1063, 
+    "verbo": "estimular"
+  },
+  { 
+    "id": 1064, 
+    "verbo": "estipular"
+  },
+  { 
+    "id": 1065, 
+    "verbo": "estirar"
+  },
+  { 
+    "id": 1066, 
+    "verbo": "estofar"
+  },
+  { 
+    "id": 1067, 
+    "verbo": "estorbar"
+  },
+  { 
+    "id": 1068, 
+    "verbo": "estornudar"
+  },
+  { 
+    "id": 1069, 
+    "verbo": "estrangular"
+  },
+  { 
+    "id": 1070, 
+    "verbo": "estrechar"
+  },
+  { 
+    "id": 1071, 
+    "verbo": "estrellar"
+  },
+  { 
+    "id": 1072, 
+    "verbo": "estrenar"
+  },
+  { 
+    "id": 1073, 
+    "verbo": "estropear"
+  },
+  { 
+    "id": 1074, 
+    "verbo": "estructurar"
+  },
+  { 
+    "id": 1075, 
+    "verbo": "estrujar"
+  },
+  { 
+    "id": 1076, 
+    "verbo": "etiquetar"
+  },
+  { 
+    "id": 1077, 
+    "verbo": "evacuar"
+  },
+  { 
+    "id": 1078, 
+    "verbo": "evadir"
+  },
+  { 
+    "id": 1079, 
+    "verbo": "evaluar"
+  },
+  { 
+    "id": 1080, 
+    "verbo": "evaporar"
+  },
+  { 
+    "id": 1081, 
+    "verbo": "evolucionar"
+  },
+  { 
+    "id": 1082, 
+    "verbo": "exacerbar"
+  },
+  { 
+    "id": 1083, 
+    "verbo": "exaltar"
+  },
+  { 
+    "id": 1084, 
+    "verbo": "examinar"
+  },
+  { 
+    "id": 1085, 
+    "verbo": "exasperar"
+  },
+  { 
+    "id": 1086, 
+    "verbo": "excavar"
+  },
+  { 
+    "id": 1087, 
+    "verbo": "exceder"
+  },
+  { 
+    "id": 1088, 
+    "verbo": "excitar"
+  },
+  { 
+    "id": 1089, 
+    "verbo": "exclamar"
+  },
+  { 
+    "id": 1090, 
+    "verbo": "excretar"
+  },
+  { 
+    "id": 1091, 
+    "verbo": "excusar"
+  },
+  { 
+    "id": 1092, 
+    "verbo": "exhalar"
+  },
+  { 
+    "id": 1093, 
+    "verbo": "exhibir"
+  },
+  { 
+    "id": 1094, 
+    "verbo": "exhortar"
+  },
+  { 
+    "id": 1095, 
+    "verbo": "exhumar"
+  },
+  { 
+    "id": 1096, 
+    "verbo": "exiliar"
+  },
+  { 
+    "id": 1097, 
+    "verbo": "eximir"
+  },
+  { 
+    "id": 1098, 
+    "verbo": "exonerar"
+  },
+  { 
+    "id": 1099, 
+    "verbo": "expandir"
+  },
+  { 
+    "id": 1100, 
+    "verbo": "expeler"
+  },
+  { 
+    "id": 1101, 
+    "verbo": "expirar"
+  },
+  { 
+    "id": 1102, 
+    "verbo": "explayar"
+  },
+  { 
+    "id": 1103, 
+    "verbo": "expresar"
+  },
+  { 
+    "id": 1104, 
+    "verbo": "expropiar"
+  },
+  { 
+    "id": 1105, 
+    "verbo": "exterminar"
+  },
+  { 
+    "id": 1106, 
+    "verbo": "extirpar"
+  },
+  { 
+    "id": 1107, 
+    "verbo": "extorsionar"
+  },
+  { 
+    "id": 1108, 
+    "verbo": "extraditar"
+  },
+  { 
+    "id": 1109, 
+    "verbo": "extrañar"
+  },
+  { 
+    "id": 1110, 
+    "verbo": "exudar"
+  },
+  { 
+    "id": 1111, 
+    "verbo": "exultar"
+  },
+  { 
+    "id": 1112, 
+    "verbo": "eyacular"
+  },
+  { 
+    "id": 1113, 
+    "verbo": "fabricar"
+  },
+  { 
+    "id": 1114, 
+    "verbo": "facilitar"
+  },
+  { 
+    "id": 1115, 
+    "verbo": "facturar"
+  },
+  { 
+    "id": 1116, 
+    "verbo": "facultar"
+  },
+  { 
+    "id": 1117, 
+    "verbo": "fallar"
+  },
+  { 
+    "id": 1118, 
+    "verbo": "fallecer"
+  },
+  { 
+    "id": 1119, 
+    "verbo": "falsear"
+  },
+  { 
+    "id": 1120, 
+    "verbo": "faltar"
+  },
+  { 
+    "id": 1121, 
+    "verbo": "fanfarronear"
+  },
+  { 
+    "id": 1122, 
+    "verbo": "fantasear"
+  },
+  { 
+    "id": 1123, 
+    "verbo": "fascinar"
+  },
+  { 
+    "id": 1124, 
+    "verbo": "fastidiar"
+  },
+  { 
+    "id": 1125, 
+    "verbo": "favorecer"
+  },
+  { 
+    "id": 1126, 
+    "verbo": "fechar"
+  },
+  { 
+    "id": 1127, 
+    "verbo": "fecundar"
+  },
+  { 
+    "id": 1128, 
+    "verbo": "felicitar"
+  },
+  { 
+    "id": 1129, 
+    "verbo": "fermentar"
+  },
+  { 
+    "id": 1130, 
+    "verbo": "festejar"
+  },
+  { 
+    "id": 1131, 
+    "verbo": "fiar"
+  },
+  { 
+    "id": 1132, 
+    "verbo": "figurar"
+  },
+  { 
+    "id": 1133, 
+    "verbo": "fijar"
+  },
+  { 
+    "id": 1134, 
+    "verbo": "filmar"
+  },
+  { 
+    "id": 1135, 
+    "verbo": "filosofar"
+  },
+  { 
+    "id": 1136, 
+    "verbo": "filtrar"
+  },
+  { 
+    "id": 1137, 
+    "verbo": "finalizar"
+  },
+  { 
+    "id": 1138, 
+    "verbo": "financiar"
+  },
+  { 
+    "id": 1139, 
+    "verbo": "fingir"
+  },
+  { 
+    "id": 1140, 
+    "verbo": "firmar"
+  },
+  { 
+    "id": 1141, 
+    "verbo": "fisgonear"
+  },
+  { 
+    "id": 1142, 
+    "verbo": "flagelar"
+  },
+  { 
+    "id": 1143, 
+    "verbo": "flanquear"
+  },
+  { 
+    "id": 1144, 
+    "verbo": "flaquear"
+  },
+  { 
+    "id": 1145, 
+    "verbo": "flexionar"
+  },
+  { 
+    "id": 1146, 
+    "verbo": "flirtear"
+  },
+  { 
+    "id": 1147, 
+    "verbo": "flojear"
+  },
+  { 
+    "id": 1148, 
+    "verbo": "florear"
+  },
+  { 
+    "id": 1149, 
+    "verbo": "florecer"
+  },
+  { 
+    "id": 1150, 
+    "verbo": "flotar"
+  },
+  { 
+    "id": 1151, 
+    "verbo": "fluctuar"
+  },
+  { 
+    "id": 1152, 
+    "verbo": "fluir"
+  },
+  { 
+    "id": 1153, 
+    "verbo": "fomentar"
+  },
+  { 
+    "id": 1154, 
+    "verbo": "forcejear"
+  },
+  { 
+    "id": 1155, 
+    "verbo": "forjar"
+  },
+  { 
+    "id": 1156, 
+    "verbo": "formar"
+  },
+  { 
+    "id": 1157, 
+    "verbo": "formatear"
+  },
+  { 
+    "id": 1158, 
+    "verbo": "formular"
+  },
+  { 
+    "id": 1159, 
+    "verbo": "forrajear"
+  },
+  { 
+    "id": 1160, 
+    "verbo": "forzar"
+  },
+  { 
+    "id": 1161, 
+    "verbo": "fotocopiar"
+  },
+  { 
+    "id": 1162, 
+    "verbo": "fotografiar"
+  },
+  { 
+    "id": 1163, 
+    "verbo": "fracasar"
+  },
+  { 
+    "id": 1164, 
+    "verbo": "fraccionar"
+  },
+  { 
+    "id": 1165, 
+    "verbo": "fracturar"
+  },
+  { 
+    "id": 1166, 
+    "verbo": "fragmentar"
+  },
+  { 
+    "id": 1167, 
+    "verbo": "frasear"
+  },
+  { 
+    "id": 1168, 
+    "verbo": "frecuentar"
+  },
+  { 
+    "id": 1169, 
+    "verbo": "fregar"
+  },
+  { 
+    "id": 1170, 
+    "verbo": "frenar"
+  },
+  { 
+    "id": 1171, 
+    "verbo": "freír"
+  },
+  { 
+    "id": 1172, 
+    "verbo": "frotar"
+  },
+  { 
+    "id": 1173, 
+    "verbo": "frustrar"
+  },
+  { 
+    "id": 1174, 
+    "verbo": "fumar"
+  },
+  { 
+    "id": 1175, 
+    "verbo": "funcionar"
+  },
+  { 
+    "id": 1176, 
+    "verbo": "fundar"
+  },
+  { 
+    "id": 1177, 
+    "verbo": "fundir"
+  },
+  { 
+    "id": 1178, 
+    "verbo": "fusilar"
+  },
+  { 
+    "id": 1179, 
+    "verbo": "galantear"
+  },
+  { 
+    "id": 1180, 
+    "verbo": "galopar"
+  },
+  { 
+    "id": 1181, 
+    "verbo": "ganar"
+  },
+  { 
+    "id": 1182, 
+    "verbo": "gandulear"
+  },
+  { 
+    "id": 1183, 
+    "verbo": "garabatear"
+  },
+  { 
+    "id": 1184, 
+    "verbo": "garantir"
+  },
+  { 
+    "id": 1185, 
+    "verbo": "garantizar"
+  },
+  { 
+    "id": 1186, 
+    "verbo": "gasear"
+  },
+  { 
+    "id": 1187, 
+    "verbo": "gastar"
+  },
+  { 
+    "id": 1188, 
+    "verbo": "gatear"
+  },
+  { 
+    "id": 1189, 
+    "verbo": "gemir"
+  },
+  { 
+    "id": 1190, 
+    "verbo": "generar"
+  },
+  { 
+    "id": 1191, 
+    "verbo": "germinar"
+  },
+  { 
+    "id": 1192, 
+    "verbo": "gesticular"
+  },
+  { 
+    "id": 1193, 
+    "verbo": "gestionar"
+  },
+  { 
+    "id": 1194, 
+    "verbo": "gimotear"
+  },
+  { 
+    "id": 1195, 
+    "verbo": "girar"
+  },
+  { 
+    "id": 1196, 
+    "verbo": "glasear"
+  },
+  { 
+    "id": 1197, 
+    "verbo": "glorificar"
+  },
+  { 
+    "id": 1198, 
+    "verbo": "glosar"
+  },
+  { 
+    "id": 1199, 
+    "verbo": "gobernar"
+  },
+  { 
+    "id": 1200, 
+    "verbo": "golpear"
+  },
+  { 
+    "id": 1201, 
+    "verbo": "gorjear"
+  },
+  { 
+    "id": 1202, 
+    "verbo": "gorrear"
+  },
+  { 
+    "id": 1203, 
+    "verbo": "gorronear"
+  },
+  { 
+    "id": 1204, 
+    "verbo": "gotear"
+  },
+  { 
+    "id": 1205, 
+    "verbo": "gozar"
+  },
+  { 
+    "id": 1206, 
+    "verbo": "grabar"
+  },
+  { 
+    "id": 1207, 
+    "verbo": "gradar"
+  },
+  { 
+    "id": 1208, 
+    "verbo": "graduar"
+  },
+  { 
+    "id": 1209, 
+    "verbo": "granular"
+  },
+  { 
+    "id": 1210, 
+    "verbo": "grapar"
+  },
+  { 
+    "id": 1211, 
+    "verbo": "gravitar"
+  },
+  { 
+    "id": 1212, 
+    "verbo": "graznar"
+  },
+  { 
+    "id": 1213, 
+    "verbo": "gritar"
+  },
+  { 
+    "id": 1214, 
+    "verbo": "gruñir"
+  },
+  { 
+    "id": 1215, 
+    "verbo": "guardar"
+  },
+  { 
+    "id": 1216, 
+    "verbo": "guardarse"
+  },
+  { 
+    "id": 1217, 
+    "verbo": "guiar"
+  },
+  { 
+    "id": 1218, 
+    "verbo": "gustar"
+  },
+  { 
+    "id": 1219, 
+    "verbo": "haber"
+  },
+  { 
+    "id": 1220, 
+    "verbo": "habilitar"
+  },
+  { 
+    "id": 1221, 
+    "verbo": "habitar"
+  },
+  { 
+    "id": 1222, 
+    "verbo": "habituar"
+  },
+  { 
+    "id": 1223, 
+    "verbo": "hablar"
+  },
+  { 
+    "id": 1224, 
+    "verbo": "hacer"
+  },
+  { 
+    "id": 1225, 
+    "verbo": "hacinar"
+  },
+  { 
+    "id": 1226, 
+    "verbo": "halar"
+  },
+  { 
+    "id": 1227, 
+    "verbo": "hallar"
+  },
+  { 
+    "id": 1228, 
+    "verbo": "hartar"
+  },
+  { 
+    "id": 1229, 
+    "verbo": "heder"
+  },
+  { 
+    "id": 1230, 
+    "verbo": "helar"
+  },
+  { 
+    "id": 1231, 
+    "verbo": "heredar"
+  },
+  { 
+    "id": 1232, 
+    "verbo": "herir"
+  },
+  { 
+    "id": 1233, 
+    "verbo": "hermanar"
+  },
+  { 
+    "id": 1234, 
+    "verbo": "herrar"
+  },
+  { 
+    "id": 1235, 
+    "verbo": "hervir"
+  },
+  { 
+    "id": 1236, 
+    "verbo": "hibernar"
+  },
+  { 
+    "id": 1237, 
+    "verbo": "hidratar"
+  },
+  { 
+    "id": 1238, 
+    "verbo": "hilar"
+  },
+  { 
+    "id": 1239, 
+    "verbo": "hilvanar"
+  },
+  { 
+    "id": 1240, 
+    "verbo": "hincharse"
+  },
+  { 
+    "id": 1241, 
+    "verbo": "hipar"
+  },
+  { 
+    "id": 1242, 
+    "verbo": "hojear"
+  },
+  { 
+    "id": 1243, 
+    "verbo": "holgar"
+  },
+  { 
+    "id": 1244, 
+    "verbo": "honrar"
+  },
+  { 
+    "id": 1245, 
+    "verbo": "hornear"
+  },
+  { 
+    "id": 1246, 
+    "verbo": "hospedar"
+  },
+  { 
+    "id": 1247, 
+    "verbo": "hospitalizar"
+  },
+  { 
+    "id": 1248, 
+    "verbo": "huir"
+  },
+  { 
+    "id": 1249, 
+    "verbo": "humear"
+  },
+  { 
+    "id": 1250, 
+    "verbo": "humedecer"
+  },
+  { 
+    "id": 1251, 
+    "verbo": "humillar"
+  },
+  { 
+    "id": 1252, 
+    "verbo": "hundir"
+  },
+  { 
+    "id": 1253, 
+    "verbo": "idear"
+  },
+  { 
+    "id": 1254, 
+    "verbo": "identificar"
+  },
+  { 
+    "id": 1255, 
+    "verbo": "idolatrar"
+  },
+  { 
+    "id": 1256, 
+    "verbo": "ignorar"
+  },
+  { 
+    "id": 1257, 
+    "verbo": "iluminar"
+  },
+  { 
+    "id": 1258, 
+    "verbo": "ilustrar"
+  },
+  { 
+    "id": 1259, 
+    "verbo": "imaginar"
+  },
+  { 
+    "id": 1260, 
+    "verbo": "imantar"
+  },
+  { 
+    "id": 1261, 
+    "verbo": "imbuir"
+  },
+  { 
+    "id": 1262, 
+    "verbo": "imitar"
+  },
+  { 
+    "id": 1263, 
+    "verbo": "impartir"
+  },
+  { 
+    "id": 1264, 
+    "verbo": "impedir"
+  },
+  { 
+    "id": 1265, 
+    "verbo": "impeler"
+  },
+  { 
+    "id": 1266, 
+    "verbo": "imperar"
+  },
+  { 
+    "id": 1267, 
+    "verbo": "implantar"
+  },
+  { 
+    "id": 1268, 
+    "verbo": "implicar"
+  },
+  { 
+    "id": 1269, 
+    "verbo": "implorar"
+  },
+  { 
+    "id": 1270, 
+    "verbo": "imponer"
+  },
+  { 
+    "id": 1271, 
+    "verbo": "importar"
+  },
+  { 
+    "id": 1272, 
+    "verbo": "impregnar"
+  },
+  { 
+    "id": 1273, 
+    "verbo": "impresionar"
+  },
+  { 
+    "id": 1274, 
+    "verbo": "imprimir"
+  },
+  { 
+    "id": 1275, 
+    "verbo": "improvisar"
+  },
+  { 
+    "id": 1276, 
+    "verbo": "impugnar"
+  },
+  { 
+    "id": 1277, 
+    "verbo": "impulsar"
+  },
+  { 
+    "id": 1278, 
+    "verbo": "imputar"
+  },
+  { 
+    "id": 1279, 
+    "verbo": "inaugurar"
+  },
+  { 
+    "id": 1280, 
+    "verbo": "incapacitar"
+  },
+  { 
+    "id": 1281, 
+    "verbo": "incinerar"
+  },
+  { 
+    "id": 1282, 
+    "verbo": "incitar"
+  },
+  { 
+    "id": 1283, 
+    "verbo": "inclinar"
+  },
+  { 
+    "id": 1284, 
+    "verbo": "incluir"
+  },
+  { 
+    "id": 1285, 
+    "verbo": "incomodar"
+  },
+  { 
+    "id": 1286, 
+    "verbo": "incorporar"
+  },
+  { 
+    "id": 1287, 
+    "verbo": "incrementar"
+  },
+  { 
+    "id": 1288, 
+    "verbo": "incriminar"
+  },
+  { 
+    "id": 1289, 
+    "verbo": "incubar"
+  },
+  { 
+    "id": 1290, 
+    "verbo": "inculpar"
+  },
+  { 
+    "id": 1291, 
+    "verbo": "incurrir"
+  },
+  { 
+    "id": 1292, 
+    "verbo": "indicar"
+  },
+  { 
+    "id": 1293, 
+    "verbo": "indignar"
+  },
+  { 
+    "id": 1294, 
+    "verbo": "inducir"
+  },
+  { 
+    "id": 1295, 
+    "verbo": "indultar"
+  },
+  { 
+    "id": 1296, 
+    "verbo": "infeccionar"
+  },
+  { 
+    "id": 1297, 
+    "verbo": "infectar"
+  },
+  { 
+    "id": 1298, 
+    "verbo": "infestar"
+  },
+  { 
+    "id": 1299, 
+    "verbo": "infiltrar"
+  },
+  { 
+    "id": 1300, 
+    "verbo": "inflamar"
+  },
+  { 
+    "id": 1301, 
+    "verbo": "inflar"
+  },
+  { 
+    "id": 1302, 
+    "verbo": "influenciar"
+  },
+  { 
+    "id": 1303, 
+    "verbo": "influir"
+  },
+  { 
+    "id": 1304, 
+    "verbo": "informar"
+  },
+  { 
+    "id": 1305, 
+    "verbo": "infringir"
+  },
+  { 
+    "id": 1306, 
+    "verbo": "ingeniar"
+  },
+  { 
+    "id": 1307, 
+    "verbo": "ingerir"
+  },
+  { 
+    "id": 1308, 
+    "verbo": "ingresar"
+  },
+  { 
+    "id": 1309, 
+    "verbo": "inhabilitar"
+  },
+  { 
+    "id": 1310, 
+    "verbo": "inhalar"
+  },
+  { 
+    "id": 1311, 
+    "verbo": "inhibir"
+  },
+  { 
+    "id": 1312, 
+    "verbo": "inhumar"
+  },
+  { 
+    "id": 1313, 
+    "verbo": "iniciar"
+  },
+  { 
+    "id": 1314, 
+    "verbo": "injertar"
+  },
+  { 
+    "id": 1315, 
+    "verbo": "injuriar"
+  },
+  { 
+    "id": 1316, 
+    "verbo": "inmigrar"
+  },
+  { 
+    "id": 1317, 
+    "verbo": "inmolar"
+  },
+  { 
+    "id": 1318, 
+    "verbo": "innovar"
+  },
+  { 
+    "id": 1319, 
+    "verbo": "inocular"
+  },
+  { 
+    "id": 1320, 
+    "verbo": "inquietar"
+  },
+  { 
+    "id": 1321, 
+    "verbo": "inquirir"
+  },
+  { 
+    "id": 1322, 
+    "verbo": "inscribir"
+  },
+  { 
+    "id": 1323, 
+    "verbo": "inscribirse"
+  },
+  { 
+    "id": 1324, 
+    "verbo": "insertar"
+  },
+  { 
+    "id": 1325, 
+    "verbo": "insinuar"
+  },
+  { 
+    "id": 1326, 
+    "verbo": "insistir"
+  },
+  { 
+    "id": 1327, 
+    "verbo": "inspeccionar"
+  },
+  { 
+    "id": 1328, 
+    "verbo": "inspirar"
+  },
+  { 
+    "id": 1329, 
+    "verbo": "instalar"
+  },
+  { 
+    "id": 1330, 
+    "verbo": "instar"
+  },
+  { 
+    "id": 1331, 
+    "verbo": "instaurar"
+  },
+  { 
+    "id": 1332, 
+    "verbo": "instruir"
+  },
+  { 
+    "id": 1333, 
+    "verbo": "instrumentar"
+  },
+  { 
+    "id": 1334, 
+    "verbo": "insultar"
+  },
+  { 
+    "id": 1335, 
+    "verbo": "integrar"
+  },
+  { 
+    "id": 1336, 
+    "verbo": "intentar"
+  },
+  { 
+    "id": 1337, 
+    "verbo": "intercambiar"
+  },
+  { 
+    "id": 1338, 
+    "verbo": "interceder"
+  },
+  { 
+    "id": 1339, 
+    "verbo": "interceptar"
+  },
+  { 
+    "id": 1340, 
+    "verbo": "interesar"
+  },
+  { 
+    "id": 1341, 
+    "verbo": "internar"
+  },
+  { 
+    "id": 1342, 
+    "verbo": "interpolar"
+  },
+  { 
+    "id": 1343, 
+    "verbo": "interpretar"
+  },
+  { 
+    "id": 1344, 
+    "verbo": "interrogar"
+  },
+  { 
+    "id": 1345, 
+    "verbo": "interrumpir"
+  },
+  { 
+    "id": 1346, 
+    "verbo": "intervenir"
+  },
+  { 
+    "id": 1347, 
+    "verbo": "intimidar"
+  },
+  { 
+    "id": 1348, 
+    "verbo": "intitular"
+  },
+  { 
+    "id": 1349, 
+    "verbo": "intrigar"
+  },
+  { 
+    "id": 1350, 
+    "verbo": "introducir"
+  },
+  { 
+    "id": 1351, 
+    "verbo": "intuir"
+  },
+  { 
+    "id": 1352, 
+    "verbo": "inundar"
+  },
+  { 
+    "id": 1353, 
+    "verbo": "invadir"
+  },
+  { 
+    "id": 1354, 
+    "verbo": "invalidar"
+  },
+  { 
+    "id": 1355, 
+    "verbo": "inventar"
+  },
+  { 
+    "id": 1356, 
+    "verbo": "invertir"
+  },
+  { 
+    "id": 1357, 
+    "verbo": "investigar"
+  },
+  { 
+    "id": 1358, 
+    "verbo": "investir"
+  },
+  { 
+    "id": 1359, 
+    "verbo": "invitar"
+  },
+  { 
+    "id": 1360, 
+    "verbo": "invocar"
+  },
+  { 
+    "id": 1361, 
+    "verbo": "involucrar"
+  },
+  { 
+    "id": 1362, 
+    "verbo": "inyectar"
+  },
+  { 
+    "id": 1363, 
+    "verbo": "ir"
+  },
+  { 
+    "id": 1364, 
+    "verbo": "irradiar"
+  },
+  { 
+    "id": 1365, 
+    "verbo": "irritar"
+  },
+  { 
+    "id": 1366, 
+    "verbo": "irse"
+  },
+  { 
+    "id": 1367, 
+    "verbo": "jactarse"
+  },
+  { 
+    "id": 1368, 
+    "verbo": "jadear"
+  },
+  { 
+    "id": 1369, 
+    "verbo": "jalar"
+  },
+  { 
+    "id": 1370, 
+    "verbo": "jubilar"
+  },
+  { 
+    "id": 1371, 
+    "verbo": "jubilarse"
+  },
+  { 
+    "id": 1372, 
+    "verbo": "jugar"
+  },
+  { 
+    "id": 1373, 
+    "verbo": "juguetear"
+  },
+  { 
+    "id": 1374, 
+    "verbo": "juntar"
+  },
+  { 
+    "id": 1375, 
+    "verbo": "jurar"
+  },
+  { 
+    "id": 1376, 
+    "verbo": "justar"
+  },
+  { 
+    "id": 1377, 
+    "verbo": "justificar"
+  },
+  { 
+    "id": 1378, 
+    "verbo": "juzgar"
+  },
+  { 
+    "id": 1379, 
+    "verbo": "lacerar"
+  },
+  { 
+    "id": 1380, 
+    "verbo": "lacrar"
+  },
+  { 
+    "id": 1381, 
+    "verbo": "ladrar"
+  },
+  { 
+    "id": 1382, 
+    "verbo": "lamentar"
+  },
+  { 
+    "id": 1383, 
+    "verbo": "lamer"
+  },
+  { 
+    "id": 1384, 
+    "verbo": "laminar"
+  },
+  { 
+    "id": 1385, 
+    "verbo": "lanzar"
+  },
+  { 
+    "id": 1386, 
+    "verbo": "laquear"
+  },
+  { 
+    "id": 1387, 
+    "verbo": "lastimar"
+  },
+  { 
+    "id": 1388, 
+    "verbo": "lastrar"
+  },
+  { 
+    "id": 1389, 
+    "verbo": "latir"
+  },
+  { 
+    "id": 1390, 
+    "verbo": "lavar"
+  },
+  { 
+    "id": 1391, 
+    "verbo": "laxar"
+  },
+  { 
+    "id": 1392, 
+    "verbo": "leer"
+  },
+  { 
+    "id": 1393, 
+    "verbo": "legalizar"
+  },
+  { 
+    "id": 1394, 
+    "verbo": "legislar"
+  },
+  { 
+    "id": 1395, 
+    "verbo": "legitimar"
+  },
+  { 
+    "id": 1396, 
+    "verbo": "levantar"
+  },
+  { 
+    "id": 1397, 
+    "verbo": "levantarse"
+  },
+  { 
+    "id": 1398, 
+    "verbo": "liberar"
+  },
+  { 
+    "id": 1399, 
+    "verbo": "librar"
+  },
+  { 
+    "id": 1400, 
+    "verbo": "licenciar"
+  },
+  { 
+    "id": 1401, 
+    "verbo": "liderar"
+  },
+  { 
+    "id": 1402, 
+    "verbo": "lidiar"
+  },
+  { 
+    "id": 1403, 
+    "verbo": "ligar"
+  },
+  { 
+    "id": 1404, 
+    "verbo": "lijar"
+  },
+  { 
+    "id": 1405, 
+    "verbo": "limar"
+  },
+  { 
+    "id": 1406, 
+    "verbo": "limitar"
+  },
+  { 
+    "id": 1407, 
+    "verbo": "limpiar"
+  },
+  { 
+    "id": 1408, 
+    "verbo": "linchar"
+  },
+  { 
+    "id": 1409, 
+    "verbo": "lindar"
+  },
+  { 
+    "id": 1410, 
+    "verbo": "liquidar"
+  },
+  { 
+    "id": 1411, 
+    "verbo": "lisiar"
+  },
+  { 
+    "id": 1412, 
+    "verbo": "lisonjear"
+  },
+  { 
+    "id": 1413, 
+    "verbo": "llamar"
+  },
+  { 
+    "id": 1414, 
+    "verbo": "llamarse"
+  },
+  { 
+    "id": 1415, 
+    "verbo": "llamear"
+  },
+  { 
+    "id": 1416, 
+    "verbo": "llegar"
+  },
+  { 
+    "id": 1417, 
+    "verbo": "llenar-"
+  },
+  { 
+    "id": 1418, 
+    "verbo": "llevar"
+  },
+  { 
+    "id": 1419, 
+    "verbo": "llevarse"
+  },
+  { 
+    "id": 1420, 
+    "verbo": "llorar"
+  },
+  { 
+    "id": 1421, 
+    "verbo": "llover"
+  },
+  { 
+    "id": 1422, 
+    "verbo": "lloviznar"
+  },
+  { 
+    "id": 1423, 
+    "verbo": "loar"
+  },
+  { 
+    "id": 1424, 
+    "verbo": "lograr"
+  },
+  { 
+    "id": 1425, 
+    "verbo": "luchar"
+  },
+  { 
+    "id": 1426, 
+    "verbo": "lucir"
+  },
+  { 
+    "id": 1427, 
+    "verbo": "lustrar"
+  },
+  { 
+    "id": 1428, 
+    "verbo": "madrugar"
+  },
+  { 
+    "id": 1429, 
+    "verbo": "madurar"
+  },
+  { 
+    "id": 1430, 
+    "verbo": "magullar"
+  },
+  { 
+    "id": 1431, 
+    "verbo": "malbaratar"
+  },
+  { 
+    "id": 1432, 
+    "verbo": "maldecir"
+  },
+  { 
+    "id": 1433, 
+    "verbo": "malgastar"
+  },
+  { 
+    "id": 1434, 
+    "verbo": "maltratar"
+  },
+  { 
+    "id": 1435, 
+    "verbo": "malversar"
+  },
+  { 
+    "id": 1436, 
+    "verbo": "mamar"
+  },
+  { 
+    "id": 1437, 
+    "verbo": "manchar"
+  },
+  { 
+    "id": 1438, 
+    "verbo": "mandar"
+  },
+  { 
+    "id": 1439, 
+    "verbo": "manejar"
+  },
+  { 
+    "id": 1440, 
+    "verbo": "manifestar"
+  },
+  { 
+    "id": 1441, 
+    "verbo": "maniobrar"
+  },
+  { 
+    "id": 1442, 
+    "verbo": "manipular"
+  },
+  { 
+    "id": 1443, 
+    "verbo": "mantener"
+  },
+  { 
+    "id": 1444, 
+    "verbo": "manufacturar"
+  },
+  { 
+    "id": 1445, 
+    "verbo": "maquillar"
+  },
+  { 
+    "id": 1446, 
+    "verbo": "maravillar"
+  },
+  { 
+    "id": 1447, 
+    "verbo": "marcar"
+  },
+  { 
+    "id": 1448, 
+    "verbo": "marchar"
+  },
+  { 
+    "id": 1449, 
+    "verbo": "marcharse"
+  },
+  { 
+    "id": 1450, 
+    "verbo": "marchitarse"
+  },
+  { 
+    "id": 1451, 
+    "verbo": "marear"
+  },
+  { 
+    "id": 1452, 
+    "verbo": "marearse"
+  },
+  { 
+    "id": 1453, 
+    "verbo": "martillar"
+  },
+  { 
+    "id": 1454, 
+    "verbo": "mascar"
+  },
+  { 
+    "id": 1455, 
+    "verbo": "mascullar"
+  },
+  { 
+    "id": 1456, 
+    "verbo": "masticar"
+  },
+  { 
+    "id": 1457, 
+    "verbo": "masturbar"
+  },
+  { 
+    "id": 1458, 
+    "verbo": "masturbarse"
+  },
+  { 
+    "id": 1459, 
+    "verbo": "matar"
+  },
+  { 
+    "id": 1460, 
+    "verbo": "matricular"
+  },
+  { 
+    "id": 1461, 
+    "verbo": "mear"
+  },
+  { 
+    "id": 1462, 
+    "verbo": "mearse"
+  },
+  { 
+    "id": 1463, 
+    "verbo": "mecer"
+  },
+  { 
+    "id": 1464, 
+    "verbo": "mediar"
+  },
+  { 
+    "id": 1465, 
+    "verbo": "medir"
+  },
+  { 
+    "id": 1466, 
+    "verbo": "meditar"
+  },
+  { 
+    "id": 1467, 
+    "verbo": "medrar"
+  },
+  { 
+    "id": 1468, 
+    "verbo": "mejorar"
+  },
+  { 
+    "id": 1469, 
+    "verbo": "memorizar"
+  },
+  { 
+    "id": 1470, 
+    "verbo": "mencionar"
+  },
+  { 
+    "id": 1471, 
+    "verbo": "mendigar"
+  },
+  { 
+    "id": 1472, 
+    "verbo": "menear"
+  },
+  { 
+    "id": 1473, 
+    "verbo": "mentar"
+  },
+  { 
+    "id": 1474, 
+    "verbo": "mentir"
+  },
+  { 
+    "id": 1475, 
+    "verbo": "merecer"
+  },
+  { 
+    "id": 1476, 
+    "verbo": "merecerse"
+  },
+  { 
+    "id": 1477, 
+    "verbo": "merendar"
+  },
+  { 
+    "id": 1478, 
+    "verbo": "merodear"
+  },
+  { 
+    "id": 1479, 
+    "verbo": "meter"
+  },
+  { 
+    "id": 1480, 
+    "verbo": "mezclar"
+  },
+  { 
+    "id": 1481, 
+    "verbo": "mimar"
+  },
+  { 
+    "id": 1482, 
+    "verbo": "minar"
+  },
+  { 
+    "id": 1483, 
+    "verbo": "mirar"
+  },
+  { 
+    "id": 1484, 
+    "verbo": "modelar"
+  },
+  { 
+    "id": 1485, 
+    "verbo": "moderar"
+  },
+  { 
+    "id": 1486, 
+    "verbo": "modernizar"
+  },
+  { 
+    "id": 1487, 
+    "verbo": "modificar"
+  },
+  { 
+    "id": 1488, 
+    "verbo": "modular"
+  },
+  { 
+    "id": 1489, 
+    "verbo": "mojar"
+  },
+  { 
+    "id": 1490, 
+    "verbo": "mojarse"
+  },
+  { 
+    "id": 1491, 
+    "verbo": "moldear"
+  },
+  { 
+    "id": 1492, 
+    "verbo": "moler"
+  },
+  { 
+    "id": 1493, 
+    "verbo": "molestar"
+  },
+  { 
+    "id": 1494, 
+    "verbo": "mondar"
+  },
+  { 
+    "id": 1495, 
+    "verbo": "montar"
+  },
+  { 
+    "id": 1496, 
+    "verbo": "moquear"
+  },
+  { 
+    "id": 1497, 
+    "verbo": "morar"
+  },
+  { 
+    "id": 1498, 
+    "verbo": "morder"
+  },
+  { 
+    "id": 1499, 
+    "verbo": "morir"
+  },
+  { 
+    "id": 1500, 
+    "verbo": "mostrar"
+  },
+  { 
+    "id": 1501, 
+    "verbo": "motivar"
+  },
+  { 
+    "id": 1502, 
+    "verbo": "mover"
+  },
+  { 
+    "id": 1503, 
+    "verbo": "moverse"
+  },
+  { 
+    "id": 1504, 
+    "verbo": "mudar"
+  },
+  { 
+    "id": 1505, 
+    "verbo": "mudarse"
+  },
+  { 
+    "id": 1506, 
+    "verbo": "multar"
+  },
+  { 
+    "id": 1507, 
+    "verbo": "multiplicar"
+  },
+  { 
+    "id": 1508, 
+    "verbo": "murmurar"
+  },
+  { 
+    "id": 1509, 
+    "verbo": "mutar"
+  },
+  { 
+    "id": 1510, 
+    "verbo": "mutilar"
+  },
+  { 
+    "id": 1511, 
+    "verbo": "nacer"
+  },
+  { 
+    "id": 1512, 
+    "verbo": "nadar"
+  },
+  { 
+    "id": 1513, 
+    "verbo": "narrar"
+  },
+  { 
+    "id": 1514, 
+    "verbo": "navegar"
+  },
+  { 
+    "id": 1515, 
+    "verbo": "necesitar"
+  },
+  { 
+    "id": 1516, 
+    "verbo": "negar"
+  },
+  { 
+    "id": 1517, 
+    "verbo": "negarse"
+  },
+  { 
+    "id": 1518, 
+    "verbo": "negociar"
+  },
+  { 
+    "id": 1519, 
+    "verbo": "nevar"
+  },
+  { 
+    "id": 1520, 
+    "verbo": "nivelar"
+  },
+  { 
+    "id": 1521, 
+    "verbo": "nombrar"
+  },
+  { 
+    "id": 1522, 
+    "verbo": "nominar"
+  },
+  { 
+    "id": 1523, 
+    "verbo": "notar"
+  },
+  { 
+    "id": 1524, 
+    "verbo": "notificar"
+  },
+  { 
+    "id": 1525, 
+    "verbo": "nublar"
+  },
+  { 
+    "id": 1526, 
+    "verbo": "numerar"
+  },
+  { 
+    "id": 1527, 
+    "verbo": "nutrir"
+  },
+  { 
+    "id": 1528, 
+    "verbo": "obedecer"
+  },
+  { 
+    "id": 1529, 
+    "verbo": "objetar"
+  },
+  { 
+    "id": 1530, 
+    "verbo": "obligar"
+  },
+  { 
+    "id": 1531, 
+    "verbo": "obsequiar"
+  },
+  { 
+    "id": 1532, 
+    "verbo": "observar"
+  },
+  { 
+    "id": 1533, 
+    "verbo": "obsesionar"
+  },
+  { 
+    "id": 1534, 
+    "verbo": "obstruir"
+  },
+  { 
+    "id": 1535, 
+    "verbo": "obtener"
+  },
+  { 
+    "id": 1536, 
+    "verbo": "obviar"
+  },
+  { 
+    "id": 1537, 
+    "verbo": "ocasionar"
+  },
+  { 
+    "id": 1538, 
+    "verbo": "ocultar"
+  },
+  { 
+    "id": 1539, 
+    "verbo": "ocultarse"
+  },
+  { 
+    "id": 1540, 
+    "verbo": "ocupar"
+  },
+  { 
+    "id": 1541, 
+    "verbo": "ocurrir"
+  },
+  { 
+    "id": 1542, 
+    "verbo": "odiar"
+  },
+  { 
+    "id": 1543, 
+    "verbo": "ofender"
+  },
+  { 
+    "id": 1544, 
+    "verbo": "oficiar"
+  },
+  { 
+    "id": 1545, 
+    "verbo": "ofrecer"
+  },
+  { 
+    "id": 1546, 
+    "verbo": "oler"
+  },
+  { 
+    "id": 1547, 
+    "verbo": "olfatear"
+  },
+  { 
+    "id": 1548, 
+    "verbo": "olvidar"
+  },
+  { 
+    "id": 1549, 
+    "verbo": "omitir"
+  },
+  { 
+    "id": 1550, 
+    "verbo": "ondear"
+  },
+  { 
+    "id": 1551, 
+    "verbo": "operar"
+  },
+  { 
+    "id": 1552, 
+    "verbo": "opinar"
+  },
+  { 
+    "id": 1553, 
+    "verbo": "oponer"
+  },
+  { 
+    "id": 1554, 
+    "verbo": "oprimir"
+  },
+  { 
+    "id": 1555, 
+    "verbo": "optar"
+  },
+  { 
+    "id": 1556, 
+    "verbo": "orar"
+  },
+  { 
+    "id": 1557, 
+    "verbo": "ordenar"
+  },
+  { 
+    "id": 1558, 
+    "verbo": "orear"
+  },
+  { 
+    "id": 1559, 
+    "verbo": "organizar"
+  },
+  { 
+    "id": 1560, 
+    "verbo": "orientar"
+  },
+  { 
+    "id": 1561, 
+    "verbo": "originar"
+  },
+  { 
+    "id": 1562, 
+    "verbo": "orillar"
+  },
+  { 
+    "id": 1563, 
+    "verbo": "orinar"
+  },
+  { 
+    "id": 1564, 
+    "verbo": "ornamentar"
+  },
+  { 
+    "id": 1565, 
+    "verbo": "ornar"
+  },
+  { 
+    "id": 1566, 
+    "verbo": "orquestar"
+  },
+  { 
+    "id": 1567, 
+    "verbo": "osar"
+  },
+  { 
+    "id": 1568, 
+    "verbo": "oscilar"
+  },
+  { 
+    "id": 1569, 
+    "verbo": "oscurecer"
+  },
+  { 
+    "id": 1570, 
+    "verbo": "otorgar"
+  },
+  { 
+    "id": 1571, 
+    "verbo": "ovular"
+  },
+  { 
+    "id": 1572, 
+    "verbo": "oxidar"
+  },
+  { 
+    "id": 1573, 
+    "verbo": "oxigenar"
+  },
+  { 
+    "id": 1574, 
+    "verbo": "oír"
+  },
+  { 
+    "id": 1575, 
+    "verbo": "padecer"
+  },
+  { 
+    "id": 1576, 
+    "verbo": "pagar"
+  },
+  { 
+    "id": 1577, 
+    "verbo": "palmear"
+  },
+  { 
+    "id": 1578, 
+    "verbo": "palmotear"
+  },
+  { 
+    "id": 1579, 
+    "verbo": "palpar"
+  },
+  { 
+    "id": 1580, 
+    "verbo": "palpitar"
+  },
+  { 
+    "id": 1581, 
+    "verbo": "parafrasear"
+  },
+  { 
+    "id": 1582, 
+    "verbo": "parar"
+  },
+  { 
+    "id": 1583, 
+    "verbo": "pararse"
+  },
+  { 
+    "id": 1584, 
+    "verbo": "parcelar"
+  },
+  { 
+    "id": 1585, 
+    "verbo": "parear"
+  },
+  { 
+    "id": 1586, 
+    "verbo": "parecer"
+  },
+  { 
+    "id": 1587, 
+    "verbo": "parecerse"
+  },
+  { 
+    "id": 1588, 
+    "verbo": "parlamentar"
+  },
+  { 
+    "id": 1589, 
+    "verbo": "parodiar"
+  },
+  { 
+    "id": 1590, 
+    "verbo": "parpadear"
+  },
+  { 
+    "id": 1591, 
+    "verbo": "participar"
+  },
+  { 
+    "id": 1592, 
+    "verbo": "partir"
+  },
+  { 
+    "id": 1593, 
+    "verbo": "pasar"
+  },
+  { 
+    "id": 1594, 
+    "verbo": "pasear"
+  },
+  { 
+    "id": 1595, 
+    "verbo": "pasmar"
+  },
+  { 
+    "id": 1596, 
+    "verbo": "pastar"
+  },
+  { 
+    "id": 1597, 
+    "verbo": "patalear"
+  },
+  { 
+    "id": 1598, 
+    "verbo": "patear"
+  },
+  { 
+    "id": 1599, 
+    "verbo": "patentar"
+  },
+  { 
+    "id": 1600, 
+    "verbo": "patinar"
+  },
+  { 
+    "id": 1601, 
+    "verbo": "patrocinar"
+  },
+  { 
+    "id": 1602, 
+    "verbo": "patrullar"
+  },
+  { 
+    "id": 1603, 
+    "verbo": "pausar"
+  },
+  { 
+    "id": 1604, 
+    "verbo": "pavimentar"
+  },
+  { 
+    "id": 1605, 
+    "verbo": "pedalear"
+  },
+  { 
+    "id": 1606, 
+    "verbo": "pedir"
+  },
+  { 
+    "id": 1607, 
+    "verbo": "pegar"
+  },
+  { 
+    "id": 1608, 
+    "verbo": "peinar"
+  },
+  { 
+    "id": 1609, 
+    "verbo": "pelar"
+  },
+  { 
+    "id": 1610, 
+    "verbo": "pelear"
+  },
+  { 
+    "id": 1611, 
+    "verbo": "pelearse"
+  },
+  { 
+    "id": 1612, 
+    "verbo": "penar"
+  },
+  { 
+    "id": 1613, 
+    "verbo": "penetrar"
+  },
+  { 
+    "id": 1614, 
+    "verbo": "pensar"
+  },
+  { 
+    "id": 1615, 
+    "verbo": "percibir"
+  },
+  { 
+    "id": 1616, 
+    "verbo": "perder"
+  },
+  { 
+    "id": 1617, 
+    "verbo": "perdonar"
+  },
+  { 
+    "id": 1618, 
+    "verbo": "perdurar"
+  },
+  { 
+    "id": 1619, 
+    "verbo": "peregrinar"
+  },
+  { 
+    "id": 1620, 
+    "verbo": "perfeccionar"
+  },
+  { 
+    "id": 1621, 
+    "verbo": "perfilar"
+  },
+  { 
+    "id": 1622, 
+    "verbo": "perforar"
+  },
+  { 
+    "id": 1623, 
+    "verbo": "perfumar"
+  },
+  { 
+    "id": 1624, 
+    "verbo": "permanecer"
+  },
+  { 
+    "id": 1625, 
+    "verbo": "permitir"
+  },
+  { 
+    "id": 1626, 
+    "verbo": "permitirse"
+  },
+  { 
+    "id": 1627, 
+    "verbo": "permutar"
+  },
+  { 
+    "id": 1628, 
+    "verbo": "perpetrar"
+  },
+  { 
+    "id": 1629, 
+    "verbo": "perpetuar"
+  },
+  { 
+    "id": 1630, 
+    "verbo": "perseguir"
+  },
+  { 
+    "id": 1631, 
+    "verbo": "perseverar"
+  },
+  { 
+    "id": 1632, 
+    "verbo": "persistir"
+  },
+  { 
+    "id": 1633, 
+    "verbo": "personificar"
+  },
+  { 
+    "id": 1634, 
+    "verbo": "persuadir"
+  },
+  { 
+    "id": 1635, 
+    "verbo": "pertenecer"
+  },
+  { 
+    "id": 1636, 
+    "verbo": "perturbar"
+  },
+  { 
+    "id": 1637, 
+    "verbo": "pesar"
+  },
+  { 
+    "id": 1638, 
+    "verbo": "pescar"
+  },
+  { 
+    "id": 1639, 
+    "verbo": "pestañear"
+  },
+  { 
+    "id": 1640, 
+    "verbo": "picar"
+  },
+  { 
+    "id": 1641, 
+    "verbo": "picotear"
+  },
+  { 
+    "id": 1642, 
+    "verbo": "pillar"
+  },
+  { 
+    "id": 1643, 
+    "verbo": "pilotar"
+  },
+  { 
+    "id": 1644, 
+    "verbo": "pilotear"
+  },
+  { 
+    "id": 1645, 
+    "verbo": "pinchar"
+  },
+  { 
+    "id": 1646, 
+    "verbo": "pintar"
+  },
+  { 
+    "id": 1647, 
+    "verbo": "piratear"
+  },
+  { 
+    "id": 1648, 
+    "verbo": "pisar"
+  },
+  { 
+    "id": 1649, 
+    "verbo": "pisotear"
+  },
+  { 
+    "id": 1650, 
+    "verbo": "placer"
+  },
+  { 
+    "id": 1651, 
+    "verbo": "plagiar"
+  },
+  { 
+    "id": 1652, 
+    "verbo": "planchar"
+  },
+  { 
+    "id": 1653, 
+    "verbo": "planear"
+  },
+  { 
+    "id": 1654, 
+    "verbo": "planificar"
+  },
+  { 
+    "id": 1655, 
+    "verbo": "plantar"
+  },
+  { 
+    "id": 1656, 
+    "verbo": "platicar"
+  },
+  { 
+    "id": 1657, 
+    "verbo": "plisar"
+  },
+  { 
+    "id": 1658, 
+    "verbo": "podar"
+  },
+  { 
+    "id": 1659, 
+    "verbo": "poder"
+  },
+  { 
+    "id": 1660, 
+    "verbo": "ponderar"
+  },
+  { 
+    "id": 1661, 
+    "verbo": "poner"
+  },
+  { 
+    "id": 1662, 
+    "verbo": "ponerse"
+  },
+  { 
+    "id": 1663, 
+    "verbo": "pordiosear"
+  },
+  { 
+    "id": 1664, 
+    "verbo": "portarse"
+  },
+  { 
+    "id": 1665, 
+    "verbo": "posar"
+  },
+  { 
+    "id": 1666, 
+    "verbo": "poseer"
+  },
+  { 
+    "id": 1667, 
+    "verbo": "posponer"
+  },
+  { 
+    "id": 1668, 
+    "verbo": "postular"
+  },
+  { 
+    "id": 1669, 
+    "verbo": "practicar"
+  },
+  { 
+    "id": 1670, 
+    "verbo": "precaver"
+  },
+  { 
+    "id": 1671, 
+    "verbo": "preceder"
+  },
+  { 
+    "id": 1672, 
+    "verbo": "precipitar"
+  },
+  { 
+    "id": 1673, 
+    "verbo": "precisar"
+  },
+  { 
+    "id": 1674, 
+    "verbo": "predecir"
+  },
+  { 
+    "id": 1675, 
+    "verbo": "predestinar"
+  },
+  { 
+    "id": 1676, 
+    "verbo": "predeterminar"
+  },
+  { 
+    "id": 1677, 
+    "verbo": "predominar"
+  },
+  { 
+    "id": 1678, 
+    "verbo": "preferir"
+  },
+  { 
+    "id": 1679, 
+    "verbo": "preguntar"
+  },
+  { 
+    "id": 1680, 
+    "verbo": "preguntarse"
+  },
+  { 
+    "id": 1681, 
+    "verbo": "premiar"
+  },
+  { 
+    "id": 1682, 
+    "verbo": "prender"
+  },
+  { 
+    "id": 1683, 
+    "verbo": "prensar"
+  },
+  { 
+    "id": 1684, 
+    "verbo": "preocupar"
+  },
+  { 
+    "id": 1685, 
+    "verbo": "preocuparse"
+  },
+  { 
+    "id": 1686, 
+    "verbo": "preparar"
+  },
+  { 
+    "id": 1687, 
+    "verbo": "prepararse"
+  },
+  { 
+    "id": 1688, 
+    "verbo": "presagiar"
+  },
+  { 
+    "id": 1689, 
+    "verbo": "prescribir"
+  },
+  { 
+    "id": 1690, 
+    "verbo": "presentar"
+  },
+  { 
+    "id": 1691, 
+    "verbo": "pretender"
+  },
+  { 
+    "id": 1692, 
+    "verbo": "prevalecer"
+  },
+  { 
+    "id": 1693, 
+    "verbo": "prevenir"
+  },
+  { 
+    "id": 1694, 
+    "verbo": "prever"
+  },
+  { 
+    "id": 1695, 
+    "verbo": "probar"
+  },
+  { 
+    "id": 1696, 
+    "verbo": "proceder"
+  },
+  { 
+    "id": 1697, 
+    "verbo": "producir"
+  },
+  { 
+    "id": 1698, 
+    "verbo": "proferir"
+  },
+  { 
+    "id": 1699, 
+    "verbo": "prohibir"
+  },
+  { 
+    "id": 1700, 
+    "verbo": "prolongar"
+  },
+  { 
+    "id": 1701, 
+    "verbo": "prometer"
+  },
+  { 
+    "id": 1702, 
+    "verbo": "promover"
+  },
+  { 
+    "id": 1703, 
+    "verbo": "proseguir"
+  },
+  { 
+    "id": 1704, 
+    "verbo": "protestar"
+  },
+  { 
+    "id": 1705, 
+    "verbo": "proveer"
+  },
+  { 
+    "id": 1706, 
+    "verbo": "proyectar"
+  },
+  { 
+    "id": 1707, 
+    "verbo": "publicar"
+  },
+  { 
+    "id": 1708, 
+    "verbo": "pulir"
+  },
+  { 
+    "id": 1709, 
+    "verbo": "pulsar"
+  },
+  { 
+    "id": 1710, 
+    "verbo": "pender"
+  },
+  { 
+    "id": 1711, 
+    "verbo": "perjudicar"
+  },
+  { 
+    "id": 1712, 
+    "verbo": "plagar"
+  },
+  { 
+    "id": 1713, 
+    "verbo": "plantear"
+  },
+  { 
+    "id": 1714, 
+    "verbo": "plegar"
+  },
+  { 
+    "id": 1715, 
+    "verbo": "poblar"
+  },
+  { 
+    "id": 1716, 
+    "verbo": "portar"
+  },
+  { 
+    "id": 1717, 
+    "verbo": "presenciar"
+  },
+  { 
+    "id": 1718, 
+    "verbo": "preservar"
+  },
+  { 
+    "id": 1719, 
+    "verbo": "presidir"
+  },
+  { 
+    "id": 1720, 
+    "verbo": "presionar"
+  },
+  { 
+    "id": 1721, 
+    "verbo": "prestar"
+  },
+  { 
+    "id": 1722, 
+    "verbo": "presumir"
+  },
+  { 
+    "id": 1723, 
+    "verbo": "principiar"
+  },
+  { 
+    "id": 1724, 
+    "verbo": "privar"
+  },
+  { 
+    "id": 1725, 
+    "verbo": "procesar"
+  },
+  { 
+    "id": 1726, 
+    "verbo": "proclamar"
+  },
+  { 
+    "id": 1727, 
+    "verbo": "procrear"
+  },
+  { 
+    "id": 1728, 
+    "verbo": "procurar"
+  },
+  { 
+    "id": 1729, 
+    "verbo": "profanar"
+  },
+  { 
+    "id": 1730, 
+    "verbo": "profesar"
+  },
+  { 
+    "id": 1731, 
+    "verbo": "programar"
+  },
+  { 
+    "id": 1732, 
+    "verbo": "progresar"
+  },
+  { 
+    "id": 1733, 
+    "verbo": "proliferar"
+  },
+  { 
+    "id": 1734, 
+    "verbo": "promocionar"
+  },
+  { 
+    "id": 1735, 
+    "verbo": "pronunciar"
+  },
+  { 
+    "id": 1736, 
+    "verbo": "propiciar"
+  },
+  { 
+    "id": 1737, 
+    "verbo": "proponer"
+  },
+  { 
+    "id": 1738, 
+    "verbo": "proporcionar"
+  },
+  { 
+    "id": 1739, 
+    "verbo": "propulsar"
+  },
+  { 
+    "id": 1740, 
+    "verbo": "proscribir"
+  },
+  { 
+    "id": 1741, 
+    "verbo": "prosperar"
+  },
+  { 
+    "id": 1742, 
+    "verbo": "protagonizara"
+  },
+  { 
+    "id": 1743, 
+    "verbo": "proteger"
+  },
+  { 
+    "id": 1744, 
+    "verbo": "protegerse"
+  },
+  { 
+    "id": 1745, 
+    "verbo": "provenir"
+  },
+  { 
+    "id": 1746, 
+    "verbo": "provocar"
+  },
+  { 
+    "id": 1747, 
+    "verbo": "pudrir"
+  },
+  { 
+    "id": 1748, 
+    "verbo": "pugnar"
+  },
+  { 
+    "id": 1749, 
+    "verbo": "pujar"
+  },
+  { 
+    "id": 1750, 
+    "verbo": "puntear"
+  },
+  { 
+    "id": 1751, 
+    "verbo": "quebrantar"
+  },
+  { 
+    "id": 1752, 
+    "verbo": "quebrar"
+  },
+  { 
+    "id": 1753, 
+    "verbo": "quedar"
+  },
+  { 
+    "id": 1754, 
+    "verbo": "quedarse"
+  },
+  { 
+    "id": 1755, 
+    "verbo": "quejar"
+  },
+  { 
+    "id": 1756, 
+    "verbo": "quejarse"
+  },
+  { 
+    "id": 1757, 
+    "verbo": "quemar"
+  },
+  { 
+    "id": 1758, 
+    "verbo": "quemarse"
+  },
+  { 
+    "id": 1759, 
+    "verbo": "querer"
+  },
+  { 
+    "id": 1760, 
+    "verbo": "quitar"
+  },
+  { 
+    "id": 1761, 
+    "verbo": "quitarse"
+  },
+  { 
+    "id": 1762, 
+    "verbo": "rabiar"
+  },
+  { 
+    "id": 1763, 
+    "verbo": "racionar"
+  },
+  { 
+    "id": 1764, 
+    "verbo": "radiar"
+  },
+  { 
+    "id": 1765, 
+    "verbo": "rajar"
+  },
+  { 
+    "id": 1766, 
+    "verbo": "rallar"
+  },
+  { 
+    "id": 1767, 
+    "verbo": "rapar"
+  },
+  { 
+    "id": 1768, 
+    "verbo": "raptar"
+  },
+  { 
+    "id": 1769, 
+    "verbo": "rascar"
+  },
+  { 
+    "id": 1770, 
+    "verbo": "rasguear"
+  },
+  { 
+    "id": 1771, 
+    "verbo": "rasguñar"
+  },
+  { 
+    "id": 1772, 
+    "verbo": "raspar"
+  },
+  { 
+    "id": 1773, 
+    "verbo": "rastrillar"
+  },
+  { 
+    "id": 1774, 
+    "verbo": "rasurar"
+  },
+  { 
+    "id": 1775, 
+    "verbo": "rayar"
+  },
+  { 
+    "id": 1776, 
+    "verbo": "razonar"
+  },
+  { 
+    "id": 1777, 
+    "verbo": "reabrir"
+  },
+  { 
+    "id": 1778, 
+    "verbo": "reaccionar"
+  },
+  { 
+    "id": 1779, 
+    "verbo": "reafirmar"
+  },
+  { 
+    "id": 1780, 
+    "verbo": "realizar"
+  },
+  { 
+    "id": 1781, 
+    "verbo": "reanimar"
+  },
+  { 
+    "id": 1782, 
+    "verbo": "reanudar"
+  },
+  { 
+    "id": 1783, 
+    "verbo": "rebajar"
+  },
+  { 
+    "id": 1784, 
+    "verbo": "rebatir"
+  },
+  { 
+    "id": 1785, 
+    "verbo": "rebobinar"
+  },
+  { 
+    "id": 1786, 
+    "verbo": "rebosar"
+  },
+  { 
+    "id": 1787, 
+    "verbo": "rebotar"
+  },
+  { 
+    "id": 1788, 
+    "verbo": "rebuznar"
+  },
+  { 
+    "id": 1789, 
+    "verbo": "recapitular"
+  },
+  { 
+    "id": 1790, 
+    "verbo": "recaudar"
+  },
+  { 
+    "id": 1791, 
+    "verbo": "recetar"
+  },
+  { 
+    "id": 1792, 
+    "verbo": "rechazar"
+  },
+  { 
+    "id": 1793, 
+    "verbo": "recibir"
+  },
+  { 
+    "id": 1794, 
+    "verbo": "reciclar"
+  },
+  { 
+    "id": 1795, 
+    "verbo": "recitar"
+  },
+  { 
+    "id": 1796, 
+    "verbo": "reclamar"
+  },
+  { 
+    "id": 1797, 
+    "verbo": "reclinar"
+  },
+  { 
+    "id": 1798, 
+    "verbo": "recluir"
+  },
+  { 
+    "id": 1799, 
+    "verbo": "reclutar"
+  },
+  { 
+    "id": 1800, 
+    "verbo": "recobrar"
+  },
+  { 
+    "id": 1801, 
+    "verbo": "recoger"
+  },
+  { 
+    "id": 1802, 
+    "verbo": "recomendar"
+  },
+  { 
+    "id": 1803, 
+    "verbo": "recompensar"
+  },
+  { 
+    "id": 1804, 
+    "verbo": "reconciliar"
+  },
+  { 
+    "id": 1805, 
+    "verbo": "reconocer"
+  },
+  { 
+    "id": 1806, 
+    "verbo": "reconquistar"
+  },
+  { 
+    "id": 1807, 
+    "verbo": "reconsiderar"
+  },
+  { 
+    "id": 1808, 
+    "verbo": "recopilar"
+  },
+  { 
+    "id": 1809, 
+    "verbo": "recordar"
+  },
+  { 
+    "id": 1810, 
+    "verbo": "recorrer"
+  },
+  { 
+    "id": 1811, 
+    "verbo": "recortar"
+  },
+  { 
+    "id": 1812, 
+    "verbo": "recrear"
+  },
+  { 
+    "id": 1813, 
+    "verbo": "recriminar"
+  },
+  { 
+    "id": 1814, 
+    "verbo": "recubrir"
+  },
+  { 
+    "id": 1815, 
+    "verbo": "recuperar"
+  },
+  { 
+    "id": 1816, 
+    "verbo": "redactar"
+  },
+  { 
+    "id": 1817, 
+    "verbo": "redimir"
+  },
+  { 
+    "id": 1818, 
+    "verbo": "redondear"
+  },
+  { 
+    "id": 1819, 
+    "verbo": "reducir"
+  },
+  { 
+    "id": 1820, 
+    "verbo": "reembolsar"
+  },
+  { 
+    "id": 1821, 
+    "verbo": "reemplazar"
+  },
+  { 
+    "id": 1822, 
+    "verbo": "referir"
+  },
+  { 
+    "id": 1823, 
+    "verbo": "refinar"
+  },
+  { 
+    "id": 1824, 
+    "verbo": "reflejar"
+  },
+  { 
+    "id": 1825, 
+    "verbo": "reflexionar"
+  },
+  { 
+    "id": 1826, 
+    "verbo": "reformar"
+  },
+  { 
+    "id": 1827, 
+    "verbo": "reforzar"
+  },
+  { 
+    "id": 1828, 
+    "verbo": "refractar"
+  },
+  { 
+    "id": 1829, 
+    "verbo": "refrendar"
+  },
+  { 
+    "id": 1830, 
+    "verbo": "refrigerar"
+  },
+  { 
+    "id": 1831, 
+    "verbo": "refugiar"
+  },
+  { 
+    "id": 1832, 
+    "verbo": "refutar"
+  },
+  { 
+    "id": 1833, 
+    "verbo": "regalar"
+  },
+  { 
+    "id": 1834, 
+    "verbo": "regar"
+  },
+  { 
+    "id": 1835, 
+    "verbo": "regañar"
+  },
+  { 
+    "id": 1836, 
+    "verbo": "regenerar"
+  },
+  { 
+    "id": 1837, 
+    "verbo": "regir"
+  },
+  { 
+    "id": 1838, 
+    "verbo": "registrar"
+  },
+  { 
+    "id": 1839, 
+    "verbo": "regresar"
+  },
+  { 
+    "id": 1840, 
+    "verbo": "regular"
+  },
+  { 
+    "id": 1841, 
+    "verbo": "rehabilitar"
+  },
+  { 
+    "id": 1842, 
+    "verbo": "reinar"
+  },
+  { 
+    "id": 1843, 
+    "verbo": "reincidir"
+  },
+  { 
+    "id": 1844, 
+    "verbo": "reincorporar"
+  },
+  { 
+    "id": 1845, 
+    "verbo": "reinstalar"
+  },
+  { 
+    "id": 1846, 
+    "verbo": "reiterar"
+  },
+  { 
+    "id": 1847, 
+    "verbo": "relacionar"
+  },
+  { 
+    "id": 1848, 
+    "verbo": "relajar"
+  },
+  { 
+    "id": 1849, 
+    "verbo": "relajarse"
+  },
+  { 
+    "id": 1850, 
+    "verbo": "relatar"
+  },
+  { 
+    "id": 1851, 
+    "verbo": "relinchar"
+  },
+  { 
+    "id": 1852, 
+    "verbo": "rellenar"
+  },
+  { 
+    "id": 1853, 
+    "verbo": "relumbrar"
+  },
+  { 
+    "id": 1854, 
+    "verbo": "remachar"
+  },
+  { 
+    "id": 1855, 
+    "verbo": "remar"
+  },
+  { 
+    "id": 1856, 
+    "verbo": "remedar"
+  },
+  { 
+    "id": 1857, 
+    "verbo": "remediar"
+  },
+  { 
+    "id": 1858, 
+    "verbo": "remitir"
+  },
+  { 
+    "id": 1859, 
+    "verbo": "remojar"
+  },
+  { 
+    "id": 1860, 
+    "verbo": "remontar"
+  },
+  { 
+    "id": 1861, 
+    "verbo": "remunerar"
+  },
+  { 
+    "id": 1862, 
+    "verbo": "rendir"
+  },
+  { 
+    "id": 1863, 
+    "verbo": "renquear"
+  },
+  { 
+    "id": 1864, 
+    "verbo": "rentar"
+  },
+  { 
+    "id": 1865, 
+    "verbo": "renunciar"
+  },
+  { 
+    "id": 1866, 
+    "verbo": "reparar"
+  },
+  { 
+    "id": 1867, 
+    "verbo": "repartir"
+  },
+  { 
+    "id": 1868, 
+    "verbo": "repasar"
+  },
+  { 
+    "id": 1869, 
+    "verbo": "repeler"
+  },
+  { 
+    "id": 1870, 
+    "verbo": "repercutir"
+  },
+  { 
+    "id": 1871, 
+    "verbo": "repetir"
+  },
+  { 
+    "id": 1872, 
+    "verbo": "reponer"
+  },
+  { 
+    "id": 1873, 
+    "verbo": "reposar"
+  },
+  { 
+    "id": 1874, 
+    "verbo": "repostar"
+  },
+  { 
+    "id": 1875, 
+    "verbo": "reprender"
+  },
+  { 
+    "id": 1876, 
+    "verbo": "representar"
+  },
+  { 
+    "id": 1877, 
+    "verbo": "reprimir"
+  },
+  { 
+    "id": 1878, 
+    "verbo": "reprochar"
+  },
+  { 
+    "id": 1879, 
+    "verbo": "repudiar"
+  },
+  { 
+    "id": 1880, 
+    "verbo": "repugnar"
+  },
+  { 
+    "id": 1881, 
+    "verbo": "repujar"
+  },
+  { 
+    "id": 1882, 
+    "verbo": "rescatar"
+  },
+  { 
+    "id": 1883, 
+    "verbo": "reservar"
+  },
+  { 
+    "id": 1884, 
+    "verbo": "residir"
+  },
+  { 
+    "id": 1885, 
+    "verbo": "resignar"
+  },
+  { 
+    "id": 1886, 
+    "verbo": "resistir"
+  },
+  { 
+    "id": 1887, 
+    "verbo": "respetar"
+  },
+  { 
+    "id": 1888, 
+    "verbo": "respirar"
+  },
+  { 
+    "id": 1889, 
+    "verbo": "responder"
+  },
+  { 
+    "id": 1890, 
+    "verbo": "reunir"
+  },
+  { 
+    "id": 1891, 
+    "verbo": "reír"
+  },
+  { 
+    "id": 1892, 
+    "verbo": "reñir"
+  },
+  { 
+    "id": 1893, 
+    "verbo": "robar"
+  },
+  { 
+    "id": 1894, 
+    "verbo": "rodar"
+  },
+  { 
+    "id": 1895, 
+    "verbo": "romper"
+  },
+  { 
+    "id": 1896, 
+    "verbo": "roncar"
+  },
+  { 
+    "id": 1897, 
+    "verbo": "rebelar"
+  },
+  { 
+    "id": 1898, 
+    "verbo": "reconstruir"
+  },
+  { 
+    "id": 1899, 
+    "verbo": "recostar"
+  },
+  { 
+    "id": 1900, 
+    "verbo": "recurrir"
+  },
+  { 
+    "id": 1901, 
+    "verbo": "regatear"
+  },
+  { 
+    "id": 1902, 
+    "verbo": "rehusar"
+  },
+  { 
+    "id": 1903, 
+    "verbo": "remover"
+  },
+  { 
+    "id": 1904, 
+    "verbo": "renombrar"
+  },
+  { 
+    "id": 1905, 
+    "verbo": "renovar"
+  },
+  { 
+    "id": 1906, 
+    "verbo": "replicar"
+  },
+  { 
+    "id": 1907, 
+    "verbo": "reproducir"
+  },
+  { 
+    "id": 1908, 
+    "verbo": "requerir"
+  },
+  { 
+    "id": 1909, 
+    "verbo": "requisar"
+  },
+  { 
+    "id": 1910, 
+    "verbo": "resbalar"
+  },
+  { 
+    "id": 1911, 
+    "verbo": "rescindir"
+  },
+  { 
+    "id": 1912, 
+    "verbo": "resfriar"
+  },
+  { 
+    "id": 1913, 
+    "verbo": "resolver"
+  },
+  { 
+    "id": 1914, 
+    "verbo": "resonar"
+  },
+  { 
+    "id": 1915, 
+    "verbo": "resquebrajar"
+  },
+  { 
+    "id": 1916, 
+    "verbo": "restallar"
+  },
+  { 
+    "id": 1917, 
+    "verbo": "restar"
+  },
+  { 
+    "id": 1918, 
+    "verbo": "restaurar"
+  },
+  { 
+    "id": 1919, 
+    "verbo": "restringir"
+  },
+  { 
+    "id": 1920, 
+    "verbo": "resucitar"
+  },
+  { 
+    "id": 1921, 
+    "verbo": "resultar"
+  },
+  { 
+    "id": 1922, 
+    "verbo": "resumir"
+  },
+  { 
+    "id": 1923, 
+    "verbo": "retardar"
+  },
+  { 
+    "id": 1924, 
+    "verbo": "retener"
+  },
+  { 
+    "id": 1925, 
+    "verbo": "retirar"
+  },
+  { 
+    "id": 1926, 
+    "verbo": "retirarse"
+  },
+  { 
+    "id": 1927, 
+    "verbo": "retornar"
+  },
+  { 
+    "id": 1928, 
+    "verbo": "retrasar"
+  },
+  { 
+    "id": 1929, 
+    "verbo": "retratar"
+  },
+  { 
+    "id": 1930, 
+    "verbo": "retroceder"
+  },
+  { 
+    "id": 1931, 
+    "verbo": "reunirse"
+  },
+  { 
+    "id": 1932, 
+    "verbo": "revelar"
+  },
+  { 
+    "id": 1933, 
+    "verbo": "revender"
+  },
+  { 
+    "id": 1934, 
+    "verbo": "reverberar"
+  },
+  { 
+    "id": 1935, 
+    "verbo": "reverenciar"
+  },
+  { 
+    "id": 1936, 
+    "verbo": "revisar"
+  },
+  { 
+    "id": 1937, 
+    "verbo": "revistar"
+  },
+  { 
+    "id": 1938, 
+    "verbo": "revivir"
+  },
+  { 
+    "id": 1939, 
+    "verbo": "revolucionar"
+  },
+  { 
+    "id": 1940, 
+    "verbo": "revolver"
+  },
+  { 
+    "id": 1941, 
+    "verbo": "rezar"
+  },
+  { 
+    "id": 1942, 
+    "verbo": "ribetear"
+  },
+  { 
+    "id": 1943, 
+    "verbo": "rimar"
+  },
+  { 
+    "id": 1944, 
+    "verbo": "rodear"
+  },
+  { 
+    "id": 1945, 
+    "verbo": "roer"
+  },
+  { 
+    "id": 1946, 
+    "verbo": "rogar"
+  },
+  { 
+    "id": 1947, 
+    "verbo": "romperse"
+  },
+  { 
+    "id": 1948, 
+    "verbo": "rondar"
+  },
+  { 
+    "id": 1949, 
+    "verbo": "rotar"
+  },
+  { 
+    "id": 1950, 
+    "verbo": "rumiar"
+  },
+  { 
+    "id": 1951, 
+    "verbo": "saber"
+  },
+  { 
+    "id": 1952, 
+    "verbo": "saborear"
+  },
+  { 
+    "id": 1953, 
+    "verbo": "sabotear"
+  },
+  { 
+    "id": 1954, 
+    "verbo": "sacar"
+  },
+  { 
+    "id": 1955, 
+    "verbo": "saciar"
+  },
+  { 
+    "id": 1956, 
+    "verbo": "sacrificar"
+  },
+  { 
+    "id": 1957, 
+    "verbo": "sacudir"
+  },
+  { 
+    "id": 1958, 
+    "verbo": "salar"
+  },
+  { 
+    "id": 1959, 
+    "verbo": "saldar"
+  },
+  { 
+    "id": 1960, 
+    "verbo": "salir"
+  },
+  { 
+    "id": 1961, 
+    "verbo": "salivar"
+  },
+  { 
+    "id": 1962, 
+    "verbo": "salpicar"
+  },
+  { 
+    "id": 1963, 
+    "verbo": "saltar"
+  },
+  { 
+    "id": 1964, 
+    "verbo": "saludar"
+  },
+  { 
+    "id": 1965, 
+    "verbo": "salvaguardar"
+  },
+  { 
+    "id": 1966, 
+    "verbo": "salvar"
+  },
+  { 
+    "id": 1967, 
+    "verbo": "sanar"
+  },
+  { 
+    "id": 1968, 
+    "verbo": "sancionar"
+  },
+  { 
+    "id": 1969, 
+    "verbo": "sancochar"
+  },
+  { 
+    "id": 1970, 
+    "verbo": "sangrar"
+  },
+  { 
+    "id": 1971, 
+    "verbo": "saquear"
+  },
+  { 
+    "id": 1972, 
+    "verbo": "satisfacer"
+  },
+  { 
+    "id": 1973, 
+    "verbo": "sazonar"
+  },
+  { 
+    "id": 1974, 
+    "verbo": "secar"
+  },
+  { 
+    "id": 1975, 
+    "verbo": "secretar"
+  },
+  { 
+    "id": 1976, 
+    "verbo": "secuestrar"
+  },
+  { 
+    "id": 1977, 
+    "verbo": "secundar"
+  },
+  { 
+    "id": 1978, 
+    "verbo": "sedar"
+  },
+  { 
+    "id": 1979, 
+    "verbo": "seducir"
+  },
+  { 
+    "id": 1980, 
+    "verbo": "segar"
+  },
+  { 
+    "id": 1981, 
+    "verbo": "seguir"
+  },
+  { 
+    "id": 1982, 
+    "verbo": "seleccionar"
+  },
+  { 
+    "id": 1983, 
+    "verbo": "sellar"
+  },
+  { 
+    "id": 1984, 
+    "verbo": "sembrar"
+  },
+  { 
+    "id": 1985, 
+    "verbo": "sentar"
+  },
+  { 
+    "id": 1986, 
+    "verbo": "sentarse"
+  },
+  { 
+    "id": 1987, 
+    "verbo": "sentenciar"
+  },
+  { 
+    "id": 1988, 
+    "verbo": "sentir"
+  },
+  { 
+    "id": 1989, 
+    "verbo": "separar"
+  },
+  { 
+    "id": 1990, 
+    "verbo": "separarse"
+  },
+  { 
+    "id": 1991, 
+    "verbo": "sepultar"
+  },
+  { 
+    "id": 1992, 
+    "verbo": "ser"
+  },
+  { 
+    "id": 1993, 
+    "verbo": "sermonear"
+  },
+  { 
+    "id": 1994, 
+    "verbo": "serpentear"
+  },
+  { 
+    "id": 1995, 
+    "verbo": "serrar"
+  },
+  { 
+    "id": 1996, 
+    "verbo": "servir"
+  },
+  { 
+    "id": 1997, 
+    "verbo": "señalar"
+  },
+  { 
+    "id": 1998, 
+    "verbo": "significar"
+  },
+  { 
+    "id": 1999, 
+    "verbo": "silbar"
+  },
+  { 
+    "id": 2000, 
+    "verbo": "simbolizar"
+  },
+  { 
+    "id": 2001, 
+    "verbo": "simplificar"
+  },
+  { 
+    "id": 2002, 
+    "verbo": "simular"
+  },
+  { 
+    "id": 2003, 
+    "verbo": "sincopar"
+  },
+  { 
+    "id": 2004, 
+    "verbo": "sisear"
+  },
+  { 
+    "id": 2005, 
+    "verbo": "sitiar"
+  },
+  { 
+    "id": 2006, 
+    "verbo": "situar"
+  },
+  { 
+    "id": 2007, 
+    "verbo": "sobornar"
+  },
+  { 
+    "id": 2008, 
+    "verbo": "sobrar"
+  },
+  { 
+    "id": 2009, 
+    "verbo": "sobrellevar"
+  },
+  { 
+    "id": 2010, 
+    "verbo": "sobrepasar"
+  },
+  { 
+    "id": 2011, 
+    "verbo": "sobreponer"
+  },
+  { 
+    "id": 2012, 
+    "verbo": "sobresaltar"
+  },
+  { 
+    "id": 2013, 
+    "verbo": "sobrevenir"
+  },
+  { 
+    "id": 2014, 
+    "verbo": "sobrevivir"
+  },
+  { 
+    "id": 2015, 
+    "verbo": "socavar"
+  },
+  { 
+    "id": 2016, 
+    "verbo": "socorrer"
+  },
+  { 
+    "id": 2017, 
+    "verbo": "solapar"
+  },
+  { 
+    "id": 2018, 
+    "verbo": "soldar"
+  },
+  { 
+    "id": 2019, 
+    "verbo": "soler"
+  },
+  { 
+    "id": 2020, 
+    "verbo": "solicitar"
+  },
+  { 
+    "id": 2021, 
+    "verbo": "soltar"
+  },
+  { 
+    "id": 2022, 
+    "verbo": "solucionar"
+  },
+  { 
+    "id": 2023, 
+    "verbo": "sombrear"
+  },
+  { 
+    "id": 2024, 
+    "verbo": "someter"
+  },
+  { 
+    "id": 2025, 
+    "verbo": "sonar"
+  },
+  { 
+    "id": 2026, 
+    "verbo": "sondar"
+  },
+  { 
+    "id": 2027, 
+    "verbo": "sondear"
+  },
+  { 
+    "id": 2028, 
+    "verbo": "sonreír"
+  },
+  { 
+    "id": 2029, 
+    "verbo": "soplar"
+  },
+  { 
+    "id": 2030, 
+    "verbo": "soportar"
+  },
+  { 
+    "id": 2031, 
+    "verbo": "sorber"
+  },
+  { 
+    "id": 2032, 
+    "verbo": "sorprender"
+  },
+  { 
+    "id": 2033, 
+    "verbo": "sospechar"
+  },
+  { 
+    "id": 2034, 
+    "verbo": "sostener"
+  },
+  { 
+    "id": 2035, 
+    "verbo": "soñar"
+  },
+  { 
+    "id": 2036, 
+    "verbo": "subastar"
+  },
+  { 
+    "id": 2037, 
+    "verbo": "subdividir"
+  },
+  { 
+    "id": 2038, 
+    "verbo": "subestimar"
+  },
+  { 
+    "id": 2039, 
+    "verbo": "subir"
+  },
+  { 
+    "id": 2040, 
+    "verbo": "sublimar"
+  },
+  { 
+    "id": 2041, 
+    "verbo": "subordinar"
+  },
+  { 
+    "id": 2042, 
+    "verbo": "subrayar"
+  },
+  { 
+    "id": 2043, 
+    "verbo": "subscribir"
+  },
+  { 
+    "id": 2044, 
+    "verbo": "subsistir"
+  },
+  { 
+    "id": 2045, 
+    "verbo": "subvencionar"
+  },
+  { 
+    "id": 2046, 
+    "verbo": "suceder"
+  },
+  { 
+    "id": 2047, 
+    "verbo": "sucumbir"
+  },
+  { 
+    "id": 2048, 
+    "verbo": "sudar"
+  },
+  { 
+    "id": 2049, 
+    "verbo": "sufrir"
+  },
+  { 
+    "id": 2050, 
+    "verbo": "sugerir"
+  },
+  { 
+    "id": 2051, 
+    "verbo": "sujetar"
+  },
+  { 
+    "id": 2052, 
+    "verbo": "sumar"
+  },
+  { 
+    "id": 2053, 
+    "verbo": "sumergir"
+  },
+  { 
+    "id": 2054, 
+    "verbo": "suministrar"
+  },
+  { 
+    "id": 2055, 
+    "verbo": "superar"
+  },
+  { 
+    "id": 2056, 
+    "verbo": "supervisar"
+  },
+  { 
+    "id": 2057, 
+    "verbo": "suplantar"
+  },
+  { 
+    "id": 2058, 
+    "verbo": "suplicar"
+  },
+  { 
+    "id": 2059, 
+    "verbo": "suponer"
+  },
+  { 
+    "id": 2060, 
+    "verbo": "suprimir"
+  },
+  { 
+    "id": 2061, 
+    "verbo": "surgir"
+  },
+  { 
+    "id": 2062, 
+    "verbo": "surtir"
+  },
+  { 
+    "id": 2063, 
+    "verbo": "suscribir"
+  },
+  { 
+    "id": 2064, 
+    "verbo": "suspender"
+  },
+  { 
+    "id": 2065, 
+    "verbo": "suspirar"
+  },
+  { 
+    "id": 2066, 
+    "verbo": "sustentar"
+  },
+  { 
+    "id": 2067, 
+    "verbo": "sustituir"
+  },
+  { 
+    "id": 2068, 
+    "verbo": "sustraer"
+  },
+  { 
+    "id": 2069, 
+    "verbo": "tabletear"
+  },
+  { 
+    "id": 2070, 
+    "verbo": "tachonar"
+  },
+  { 
+    "id": 2071, 
+    "verbo": "taladrar"
+  },
+  { 
+    "id": 2072, 
+    "verbo": "tallar"
+  },
+  { 
+    "id": 2073, 
+    "verbo": "tambalear"
+  },
+  { 
+    "id": 2074, 
+    "verbo": "tamborilear"
+  },
+  { 
+    "id": 2075, 
+    "verbo": "tapar"
+  },
+  { 
+    "id": 2076, 
+    "verbo": "tapiar"
+  },
+  { 
+    "id": 2077, 
+    "verbo": "taponar"
+  },
+  { 
+    "id": 2078, 
+    "verbo": "tararear"
+  },
+  { 
+    "id": 2079, 
+    "verbo": "tardar"
+  },
+  { 
+    "id": 2080, 
+    "verbo": "tartamudear"
+  },
+  { 
+    "id": 2081, 
+    "verbo": "tasar"
+  },
+  { 
+    "id": 2082, 
+    "verbo": "tatuar"
+  },
+  { 
+    "id": 2083, 
+    "verbo": "teclear"
+  },
+  { 
+    "id": 2084, 
+    "verbo": "tejer"
+  },
+  { 
+    "id": 2085, 
+    "verbo": "telefonear"
+  },
+  { 
+    "id": 2086, 
+    "verbo": "televisar"
+  },
+  { 
+    "id": 2087, 
+    "verbo": "temblar"
+  },
+  { 
+    "id": 2088, 
+    "verbo": "temer"
+  },
+  { 
+    "id": 2089, 
+    "verbo": "temperar"
+  },
+  { 
+    "id": 2090, 
+    "verbo": "templar"
+  },
+  { 
+    "id": 2091, 
+    "verbo": "tender"
+  },
+  { 
+    "id": 2092, 
+    "verbo": "tener"
+  },
+  { 
+    "id": 2093, 
+    "verbo": "tensar"
+  },
+  { 
+    "id": 2094, 
+    "verbo": "tentar"
+  },
+  { 
+    "id": 2095, 
+    "verbo": "terminar"
+  },
+  { 
+    "id": 2096, 
+    "verbo": "teñir"
+  },
+  { 
+    "id": 2097, 
+    "verbo": "timar"
+  },
+  { 
+    "id": 2098, 
+    "verbo": "timbrar"
+  },
+  { 
+    "id": 2099, 
+    "verbo": "tintinear"
+  },
+  { 
+    "id": 2100, 
+    "verbo": "tirar"
+  },
+  { 
+    "id": 2101, 
+    "verbo": "tiritar"
+  },
+  { 
+    "id": 2102, 
+    "verbo": "titilar"
+  },
+  { 
+    "id": 2103, 
+    "verbo": "titular"
+  },
+  { 
+    "id": 2104, 
+    "verbo": "tocar"
+  },
+  { 
+    "id": 2105, 
+    "verbo": "tolerar"
+  },
+  { 
+    "id": 2106, 
+    "verbo": "tomar"
+  },
+  { 
+    "id": 2107, 
+    "verbo": "tontear"
+  },
+  { 
+    "id": 2108, 
+    "verbo": "topetar"
+  },
+  { 
+    "id": 2109, 
+    "verbo": "torcer"
+  },
+  { 
+    "id": 2110, 
+    "verbo": "tornear"
+  },
+  { 
+    "id": 2111, 
+    "verbo": "torpedear"
+  },
+  { 
+    "id": 2112, 
+    "verbo": "torturar"
+  },
+  { 
+    "id": 2113, 
+    "verbo": "toser"
+  },
+  { 
+    "id": 2114, 
+    "verbo": "tostar"
+  },
+  { 
+    "id": 2115, 
+    "verbo": "trabajar"
+  },
+  { 
+    "id": 2116, 
+    "verbo": "trabar"
+  },
+  { 
+    "id": 2117, 
+    "verbo": "traducir"
+  },
+  { 
+    "id": 2118, 
+    "verbo": "traer"
+  },
+  { 
+    "id": 2119, 
+    "verbo": "traficar"
+  },
+  { 
+    "id": 2120, 
+    "verbo": "tragar"
+  },
+  { 
+    "id": 2121, 
+    "verbo": "traicionar"
+  },
+  { 
+    "id": 2122, 
+    "verbo": "trajinar"
+  },
+  { 
+    "id": 2123, 
+    "verbo": "tramar"
+  },
+  { 
+    "id": 2124, 
+    "verbo": "tranquilizar"
+  },
+  { 
+    "id": 2125, 
+    "verbo": "transar"
+  },
+  { 
+    "id": 2126, 
+    "verbo": "transbordar"
+  },
+  { 
+    "id": 2127, 
+    "verbo": "transcribir"
+  },
+  { 
+    "id": 2128, 
+    "verbo": "transcurrir"
+  },
+  { 
+    "id": 2129, 
+    "verbo": "transferir"
+  },
+  { 
+    "id": 2130, 
+    "verbo": "transfigurar"
+  },
+  { 
+    "id": 2131, 
+    "verbo": "transformar"
+  },
+  { 
+    "id": 2132, 
+    "verbo": "transmitir"
+  },
+  { 
+    "id": 2133, 
+    "verbo": "transpirar"
+  },
+  { 
+    "id": 2134, 
+    "verbo": "transponer"
+  },
+  { 
+    "id": 2135, 
+    "verbo": "transportar"
+  },
+  { 
+    "id": 2136, 
+    "verbo": "traquetear"
+  },
+  { 
+    "id": 2137, 
+    "verbo": "trasladar"
+  },
+  { 
+    "id": 2138, 
+    "verbo": "traspasar"
+  },
+  { 
+    "id": 2139, 
+    "verbo": "trasplantar"
+  },
+  { 
+    "id": 2140, 
+    "verbo": "trasquilar"
+  },
+  { 
+    "id": 2141, 
+    "verbo": "trastornar"
+  },
+  { 
+    "id": 2142, 
+    "verbo": "tratar"
+  },
+  { 
+    "id": 2143, 
+    "verbo": "trazar"
+  },
+  { 
+    "id": 2144, 
+    "verbo": "trepar"
+  },
+  { 
+    "id": 2145, 
+    "verbo": "trillar"
+  },
+  { 
+    "id": 2146, 
+    "verbo": "trinar"
+  },
+  { 
+    "id": 2147, 
+    "verbo": "trinchar"
+  },
+  { 
+    "id": 2148, 
+    "verbo": "tripular"
+  },
+  { 
+    "id": 2149, 
+    "verbo": "triturar"
+  },
+  { 
+    "id": 2150, 
+    "verbo": "triunfar"
+  },
+  { 
+    "id": 2151, 
+    "verbo": "trocar"
+  },
+  { 
+    "id": 2152, 
+    "verbo": "trocear"
+  },
+  { 
+    "id": 2153, 
+    "verbo": "tronar"
+  },
+  { 
+    "id": 2154, 
+    "verbo": "tropezar"
+  },
+  { 
+    "id": 2155, 
+    "verbo": "trotar"
+  },
+  { 
+    "id": 2156, 
+    "verbo": "tumbar"
+  },
+  { 
+    "id": 2157, 
+    "verbo": "tundir"
+  },
+  { 
+    "id": 2158, 
+    "verbo": "turbar"
+  },
+  { 
+    "id": 2159, 
+    "verbo": "turnar"
+  },
+  { 
+    "id": 2160, 
+    "verbo": "tutear"
+  },
+  { 
+    "id": 2161, 
+    "verbo": "ubicar"
+  },
+  { 
+    "id": 2162, 
+    "verbo": "ulcerar"
+  },
+  { 
+    "id": 2163, 
+    "verbo": "ultimar"
+  },
+  { 
+    "id": 2164, 
+    "verbo": "ultrajar"
+  },
+  { 
+    "id": 2165, 
+    "verbo": "ulular"
+  },
+  { 
+    "id": 2166, 
+    "verbo": "unificar"
+  },
+  { 
+    "id": 2167, 
+    "verbo": "unir"
+  },
+  { 
+    "id": 2168, 
+    "verbo": "untar"
+  },
+  { 
+    "id": 2169, 
+    "verbo": "usar"
+  },
+  { 
+    "id": 2170, 
+    "verbo": "usurpar"
+  },
+  { 
+    "id": 2171, 
+    "verbo": "utilizar"
+  },
+  { 
+    "id": 2172, 
+    "verbo": "vaciar"
+  },
+  { 
+    "id": 2173, 
+    "verbo": "vacilar"
+  },
+  { 
+    "id": 2174, 
+    "verbo": "vacunar"
+  },
+  { 
+    "id": 2175, 
+    "verbo": "vadear"
+  },
+  { 
+    "id": 2176, 
+    "verbo": "vagabundear"
+  },
+  { 
+    "id": 2177, 
+    "verbo": "vagar"
+  },
+  { 
+    "id": 2178, 
+    "verbo": "valer"
+  },
+  { 
+    "id": 2179, 
+    "verbo": "validar"
+  },
+  { 
+    "id": 2180, 
+    "verbo": "vallar"
+  },
+  { 
+    "id": 2181, 
+    "verbo": "valorar"
+  },
+  { 
+    "id": 2182, 
+    "verbo": "valsar"
+  },
+  { 
+    "id": 2183, 
+    "verbo": "vapulear"
+  },
+  { 
+    "id": 2184, 
+    "verbo": "varar"
+  },
+  { 
+    "id": 2185, 
+    "verbo": "variar"
+  },
+  { 
+    "id": 2186, 
+    "verbo": "vaticinar"
+  },
+  { 
+    "id": 2187, 
+    "verbo": "vedar"
+  },
+  { 
+    "id": 2188, 
+    "verbo": "vegetar"
+  },
+  { 
+    "id": 2189, 
+    "verbo": "vejar"
+  },
+  { 
+    "id": 2190, 
+    "verbo": "vencer"
+  },
+  { 
+    "id": 2191, 
+    "verbo": "vendar"
+  },
+  { 
+    "id": 2192, 
+    "verbo": "vender"
+  },
+  { 
+    "id": 2193, 
+    "verbo": "venerar"
+  },
+  { 
+    "id": 2194, 
+    "verbo": "vengar"
+  },
+  { 
+    "id": 2195, 
+    "verbo": "venir"
+  },
+  { 
+    "id": 2196, 
+    "verbo": "ventilar"
+  },
+  { 
+    "id": 2197, 
+    "verbo": "ver"
+  },
+  { 
+    "id": 2198, 
+    "verbo": "veranear"
+  },
+  { 
+    "id": 2199, 
+    "verbo": "verificar"
+  },
+  { 
+    "id": 2200, 
+    "verbo": "vestir"
+  },
+  { 
+    "id": 2201, 
+    "verbo": "vestirse"
+  },
+  { 
+    "id": 2202, 
+    "verbo": "vetar"
+  },
+  { 
+    "id": 2203, 
+    "verbo": "viajar"
+  },
+  { 
+    "id": 2204, 
+    "verbo": "vibrar"
+  },
+  { 
+    "id": 2205, 
+    "verbo": "vigilar"
+  },
+  { 
+    "id": 2206, 
+    "verbo": "vilipendiar"
+  },
+  { 
+    "id": 2207, 
+    "verbo": "vincular"
+  },
+  { 
+    "id": 2208, 
+    "verbo": "violar"
+  },
+  { 
+    "id": 2209, 
+    "verbo": "virar"
+  },
+  { 
+    "id": 2210, 
+    "verbo": "visitar"
+  },
+  { 
+    "id": 2211, 
+    "verbo": "visualizar"
+  },
+  { 
+    "id": 2212, 
+    "verbo": "vitorear"
+  },
+  { 
+    "id": 2213, 
+    "verbo": "vivir"
+  },
+  { 
+    "id": 2214, 
+    "verbo": "vocear"
+  },
+  { 
+    "id": 2215, 
+    "verbo": "vociferar"
+  },
+  { 
+    "id": 2216, 
+    "verbo": "volar"
+  },
+  { 
+    "id": 2217, 
+    "verbo": "volcar"
+  },
+  { 
+    "id": 2218, 
+    "verbo": "voltear"
+  },
+  { 
+    "id": 2219, 
+    "verbo": "volver"
+  },
+  { 
+    "id": 2220, 
+    "verbo": "volverse"
+  },
+  { 
+    "id": 2221, 
+    "verbo": "vomitar"
+  },
+  { 
+    "id": 2222, 
+    "verbo": "votar"
+  },
+  { 
+    "id": 2223, 
+    "verbo": "yacer"
+  },
+  { 
+    "id": 2224, 
+    "verbo": "zanganear"
+  },
+  { 
+    "id": 2225, 
+    "verbo": "zanjar"
+  },
+  { 
+    "id": 2226, 
+    "verbo": "zarandear"
+  },
+  { 
+    "id": 2227, 
+    "verbo": "zigzaguear"
+  },
+  { 
+    "id": 2228, 
+    "verbo": "zumbar"
+  },
+  { 
+    "id": 2229, 
+    "verbo": "zurcir"
+  }
+]

@@ -321,8 +321,6 @@ averiar
 ayunar
 azotar
 azucarar
-
-
 babear
 bailar
 bajar
@@ -378,8 +376,6 @@ burbujear
 burlar
 burlarse
 buscar
-
-
 cabalgar
 caber
 cacarear
@@ -626,8 +622,6 @@ cursar
 curtir
 curvar
 custodiar
-
-
 damnificar
 dar
 datar
@@ -862,8 +856,6 @@ drenar
 driblar
 duchar
 ducharse
-
-
 echar
 eclipsar
 edificar
@@ -1119,8 +1111,6 @@ extrañar
 exudar
 exultar
 eyacular
-
-
 fabricar
 facilitar
 facturar
@@ -1187,8 +1177,6 @@ funcionar
 fundar
 fundir
 fusilar
-
-
 galantear
 galopar
 ganar
@@ -1229,8 +1217,6 @@ guardar
 guardarse
 guiar
 gustar
-
-
 haber
 habilitar
 habitar
@@ -1265,8 +1251,6 @@ humear
 humedecer
 humillar
 hundir
-
-
 idear
 identificar
 idolatrar
@@ -1381,8 +1365,6 @@ ir
 irradiar
 irritar
 irse
-
-
 jactarse
 jadear
 jalar
@@ -1395,8 +1377,6 @@ jurar
 justar
 justificar
 juzgar
-
-
 lacerar
 lacrar
 ladrar
@@ -1446,8 +1426,6 @@ lograr
 luchar
 lucir
 lustrar
-
-
 madrugar
 madurar
 magullar
@@ -1531,8 +1509,6 @@ multiplicar
 murmurar
 mutar
 mutilar
-
-
 nacer
 nadar
 narrar
@@ -1550,8 +1526,6 @@ notificar
 nublar
 numerar
 nutrir
-
-
 obedecer
 objetar
 obligar
@@ -1599,8 +1573,6 @@ ovular
 oxidar
 oxigenar
 oír
-
-
 padecer
 pagar
 palmear
@@ -1635,7 +1607,7 @@ pedalear
 pedir
 pegar
 peinar
-pelar 
+pelar
 pelear
 pelearse
 penar
@@ -1736,8 +1708,6 @@ proyectar
 publicar
 pulir
 pulsar
-
-
 pender
 perjudicar
 plagar
@@ -1770,7 +1740,7 @@ proporcionar
 propulsar
 proscribir
 prosperar
-protagonizara 
+protagonizara
 proteger
 protegerse
 provenir
@@ -1779,8 +1749,6 @@ pudrir
 pugnar
 pujar
 puntear
-
-
 quebrantar
 quebrar
 quedar
@@ -1790,10 +1758,8 @@ quejarse
 quemar
 quemarse
 querer
-quitar 
+quitar
 quitarse
-
-
 rabiar
 racionar
 radiar
@@ -1983,8 +1949,6 @@ romperse
 rondar
 rotar
 rumiar
-
-
 saber
 saborear
 sabotear
@@ -2103,8 +2067,6 @@ suspirar
 sustentar
 sustituir
 sustraer
-
-
 tabletear
 tachonar
 taladrar
@@ -2197,8 +2159,6 @@ tundir
 turbar
 turnar
 tutear
-
-
 ubicar
 ulcerar
 ultimar
@@ -2210,8 +2170,6 @@ untar
 usar
 usurpar
 utilizar
-
-
 vaciar
 vacilar
 vacunar
@@ -2225,7 +2183,7 @@ valorar
 valsar
 vapulear
 varar
-variar 
+variar
 vaticinar
 vedar
 vegetar
@@ -2239,7 +2197,7 @@ venir
 ventilar
 ver
 veranear
-verificar 
+verificar
 vestir
 vestirse
 vetar
@@ -2253,7 +2211,7 @@ virar
 visitar
 visualizar
 vitorear
-vivir 
+vivir
 vocear
 vociferar
 volar
@@ -2263,11 +2221,7 @@ volver
 volverse
 vomitar
 votar
-
-
 yacer
-
-
 zanganear
 zanjar
 zarandear
