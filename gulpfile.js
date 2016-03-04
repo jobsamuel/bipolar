@@ -8,8 +8,8 @@ gulp.task('default', ['build', 'serve', 'watch']);
 gulp.task('build', ['processHTML', 'processJS', 'copy']);
 
 gulp.task('watch', () => {
-  gulp.watch('src/js/app.js', ['processJS']);
-  gulp.watch('src/*.html', ['processHTML']);
+  gulp.watch('src/js/app.js', ['processJS']).on('change', browserSync.reload);
+  gulp.watch('src/*.html', ['processHTML']).on('change', browserSync.reload);
 });
 
 gulp.task('copy', () => 
