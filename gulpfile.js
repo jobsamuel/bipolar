@@ -12,6 +12,11 @@ gulp.task('watch', () => {
   gulp.watch('src/*.html', ['processHTML']).on('change', browserSync.reload);
 });
 
+gulp.task('public', () => 
+  gulp.src('build/**/*')
+    .pipe(gulp.dest('./'))
+);
+
 gulp.task('copy', () => 
   gulp.src('src/assets/**/*')
     .pipe(gulp.dest('build/assets'))
