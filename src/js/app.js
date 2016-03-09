@@ -2,22 +2,31 @@ const ref = new Firebase('https://hearty-robot.firebaseio.com');
 
 const Header = React.createClass({
   vote: function(value) {
-    const vb = this.props.data.verbo;
     const id = this.props.data.id;
 
-    ref.child(`bipolar_results/${id}/${vb}/value`).set(value, function(error) {
-      if (error) {
-        return console.error(error);
+    ref.child(`bipolar_results/${id}/votos_totales`).transaction(function(currentData) {
+      if (currentData) {
+        return currentData + 1;
       }
 
-      this.props.fetch();
-    }.bind(this));
+      return 1;
+    });
+
+    ref.child(`bipolar_results/${id}/valor`).transaction(function(currentData) {
+      if (currentData) {
+        return currentData + value;
+      }
+
+      return value;
+    });
+
+    this.props.fetch();
   },
   render: function() {
     return (
       <div className="text-center">
         <h1>{this.props.data.verbo}</h1>
-          <div className="button-group expanded">
+        <div className="button-group expanded">
           <a className="button alert" onClick={this.vote.bind(this, -1)}>Negativo</a>
           <a className="button" onClick={this.vote.bind(this, 0)}>Neutral</a>
           <a className="button success" onClick={this.vote.bind(this, 1)}>Positivo</a>
